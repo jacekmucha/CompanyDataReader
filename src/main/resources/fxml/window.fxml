@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.Controller">
+   <top>
+      <Pane prefHeight="160.0" prefWidth="1000.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button fx:id="sourceFile" layoutX="181.0" layoutY="23.0" mnemonicParsing="false" onAction="#openFile" prefHeight="49.0" prefWidth="182.0" text="Wczytaj plik CSV" />
+            <Label layoutX="40.0" layoutY="34.0" prefHeight="27.0" prefWidth="128.0" text="Załaduj dane:">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="471.0" layoutY="20.0" prefHeight="23.0" prefWidth="181.0" text="Wczytany plik:">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="470.0" layoutY="56.0" prefHeight="27.0" prefWidth="226.0" text="&lt;brak wczytanego pliku&gt;">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Button fx:id="getDataByFileButton" layoutX="738.0" layoutY="20.0" mnemonicParsing="false" onAction="#downloadCompanyData" prefHeight="49.0" prefWidth="202.0" text="Rozpocznij pobieranie wg pliku" />
+            <Label layoutX="40.0" layoutY="105.0" prefHeight="27.0" prefWidth="128.0" text="Wklej link:">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <TextField fx:id="sourceLink" alignment="BOTTOM_LEFT" layoutX="181.0" layoutY="103.0" prefHeight="31.0" prefWidth="497.0" />
+            <Button fx:id="getDataByLinkButton" layoutX="738.0" layoutY="83.0" mnemonicParsing="false" onAction="#getDataByLink" prefHeight="49.0" prefWidth="202.0" text="Rozpocznij pobieranie z linku" />
+         </children>
+      </Pane>
+   </top>
+   <bottom>
+      <Pane prefHeight="86.0" prefWidth="1000.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button fx:id="saveToCSVButton" layoutX="651.0" layoutY="19.0" mnemonicParsing="false" onAction="#saveToCSV" prefHeight="48.0" prefWidth="181.0" text="Zapisz do pliku CSV" />
+            <ProgressBar layoutX="64.0" layoutY="49.0" prefHeight="18.0" prefWidth="543.0" progress="0.0" />
+            <Label layoutX="64.0" layoutY="13.0" prefHeight="27.0" prefWidth="271.0" text="Postęp przetwarzania pliku:">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Button layoutX="873.0" layoutY="16.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="60.0">
+               <graphic>
+                  <ImageView fitHeight="40.0" fitWidth="38.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../icon/Settings-icon.png" />
+                     </image>
+                  </ImageView>
+               </graphic></Button>
+            <ImageView fitHeight="150.0" fitWidth="73.0" layoutX="821.0" layoutY="65.0" pickOnBounds="true" preserveRatio="true" />
+         </children>
+      </Pane>
+   </bottom>
+   <center>
+      <TableView prefHeight="445.0" prefWidth="1000.0" BorderPane.alignment="CENTER">
+        <columns>
+          <TableColumn prefWidth="184.0" text="Nazwa firmy" />
+            <TableColumn prefWidth="184.0" text="Adres firmy" />
+            <TableColumn prefWidth="192.0" text="WWW" />
+            <TableColumn prefWidth="224.0" text="Adres Email" />
+            <TableColumn prefWidth="215.0" text="Nr. telefonu" />
+        </columns>
+      </TableView>
+   </center>
+</BorderPane>

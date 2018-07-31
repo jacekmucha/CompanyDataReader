@@ -1,0 +1,21 @@
+package Model;
+
+import lombok.Getter;
+import lombok.Setter;
+
+@Getter
+@Setter
+
+public class ConnectionSettings {
+
+    public static String companyInfoCard = "https://panoramafirm.pl/miasto/geo_inwest_uslugi_geodezyjne_piotr_iskrzak-owpdpe_ta.html";
+    public static String companyNameCSSselector = ".company-name";
+    public static String companyAddressCSSselector = "div.col-sm-8:nth-child(1) > div:nth-child(1)";
+    public static String companyPhoneCSSselector = ".col-www > a:nth-child(2)";
+    public static String webpageLineValidator = "nofollow";
+    public static String emailLineValidator = "mailto:";
+    public static String filePath = "C:/myfile.txt";
+
+//   ./tmp/page.txt
+
+}
