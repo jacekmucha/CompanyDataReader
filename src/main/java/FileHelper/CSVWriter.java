@@ -1,12 +1,12 @@
 package FileHelper;
 
 import Model.Company;
-import javafx.embed.swing.SwingFXUtils;
 import javafx.stage.FileChooser;
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
+
+import java.io.*;
 import java.util.List;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 public class CSVWriter {
 
@@ -37,12 +37,54 @@ public class CSVWriter {
     }
 
     public void saveCSV(String text) {
+
         FileChooser fileChooser = new FileChooser();
         fileChooser.setTitle("Export");
+        FileChooser.ExtensionFilter extFilter = new FileChooser.ExtensionFilter("Plik CSV (*.csv)", "*.csv");
+        fileChooser.getExtensionFilters().add(extFilter);
         File file = fileChooser.showSaveDialog(null);
 
+        try {
+            FileWriter fileWriter = null;
 
+            fileWriter = new FileWriter(file);
+            fileWriter.write(text);
+            fileWriter.close();
+        } catch (IOException ex) {
+            Logger.getLogger(CSVWriter.class.getName()).log(Level.SEVERE, null, ex);
+        }
 
     }
+
+    public void saveCSV_UTF8(String text){
+
+        FileChooser fileChooser = new FileChooser();
+        fileChooser.setTitle("Export");
+        FileChooser.ExtensionFilter extFilter = new FileChooser.ExtensionFilter("Plik CSV (*.csv)", "*.csv");
+        fileChooser.getExtensionFilters().add(extFilter);
+        File file = fileChooser.showSaveDialog(null);
+
+        try {
+            Writer out = new BufferedWriter(new OutputStreamWriter(
+                    new FileOutputStream(file), "UTF8"));
+            out.write(text);
+            out.flush();
+            out.close();
+        }
+        catch (UnsupportedEncodingException e)
+        {
+            System.out.println(e.getMessage());
+        }
+        catch (IOException e)
+        {
+            System.out.println(e.getMessage());
+        }
+        catch (Exception e)
+        {
+            System.out.println(e.getMessage());
+        }
+    }
+
+
 }
 

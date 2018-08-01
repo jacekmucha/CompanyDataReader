@@ -87,7 +87,7 @@ public class CompanyService implements ICompanyService {
             if (!e.text().contains("napisz email")) {
                 address = e.text();
             } else {
-                System.out.println("BRAK DANYCH w polu adresu!");
+                address = "BRAK DANYCH w polu adresu!";
             }
         } return address;
     }

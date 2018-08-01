@@ -1,14 +1,7 @@
 package Model;
 
-
 import javafx.beans.property.SimpleStringProperty;
-import lombok.Getter;
-import lombok.Setter;
-
 import java.util.Objects;
-
-@Getter
-@Setter
 
 public class Company {
 
@@ -18,6 +11,7 @@ public class Company {
     private SimpleStringProperty contactPerson;
     private SimpleStringProperty email;
     private SimpleStringProperty phoneNumber;
+
 
     public Company(String name, String address, String website, String contactPerson, String email, String phonenumber){
         this.name = new SimpleStringProperty(name);
@@ -31,6 +25,57 @@ public class Company {
 
     public Company() {
     }
+
+
+    public String getName() {
+        return name.get();
+    }
+
+    public void setName(String name) {
+        this.name.set(name);
+    }
+
+    public String getAddress() {
+        return address.get();
+    }
+
+    public void setAddress(String address) {
+        this.address.set(address);
+    }
+
+    public String getWebsite() {
+        return website.get();
+    }
+
+    public void setWebsite(String website) {
+        this.website.set(website);
+    }
+
+    public String getContactPerson() {
+        return contactPerson.get();
+    }
+
+    public void setContactPerson(String contactPerson) {
+        this.contactPerson.set(contactPerson);
+    }
+
+    public String getEmail() {
+        return email.get();
+    }
+
+    public void setEmail(String email) {
+        this.email.set(email);
+    }
+
+    public String getPhoneNumber() {
+        return phoneNumber.get();
+    }
+
+    public void setPhoneNumber(String phoneNumber) {
+        this.phoneNumber.set(phoneNumber);
+    }
+
+
 
     @Override
     public boolean equals(Object o) {

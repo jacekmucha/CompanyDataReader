@@ -62,11 +62,31 @@
                   </ImageView>
                </graphic></Button>
             <ImageView fitHeight="150.0" fitWidth="73.0" layoutX="821.0" layoutY="65.0" pickOnBounds="true" preserveRatio="true" />
+            <Label fx:id="fileLines" layoutX="507.0" layoutY="13.0" prefHeight="27.0" prefWidth="62.0" text="X">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="currentFileLine" layoutX="426.0" layoutY="13.0" prefHeight="27.0" prefWidth="46.0" text="X">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="477.0" layoutY="13.0" prefHeight="27.0" prefWidth="11.0" text="/">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="570.0" layoutY="13.0" prefHeight="27.0" prefWidth="34.0" text="firm">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
          </children>
       </Pane>
    </bottom>
    <center>
-      <TableView prefHeight="445.0" prefWidth="1000.0" BorderPane.alignment="CENTER">
+      <TableView fx:id="table" prefHeight="445.0" prefWidth="1000.0" BorderPane.alignment="CENTER">
         <columns>
           <TableColumn prefWidth="184.0" text="Nazwa firmy" />
             <TableColumn prefWidth="184.0" text="Adres firmy" />
