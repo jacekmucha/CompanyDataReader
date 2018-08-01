@@ -40,11 +40,7 @@ public class CompanyService implements ICompanyService {
 
         try {
             File file = new File(tempFilePath);
-            if (file.exists()) {
-                file.delete();
-            } else if (!file.exists()){
-                file = new File(tempFilePath);
-            }
+            file.createNewFile();
 
             URL website = new URL(link);
             BufferedReader in = new BufferedReader(

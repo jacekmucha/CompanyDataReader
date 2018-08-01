@@ -38,7 +38,7 @@
                   <Font size="18.0" />
                </font>
             </Label>
-            <TextField fx:id="sourceLink" alignment="BOTTOM_LEFT" layoutX="181.0" layoutY="103.0" prefHeight="31.0" prefWidth="497.0" />
+            <TextField fx:id="sourceLink" alignment="BOTTOM_LEFT" layoutX="181.0" layoutY="103.0" prefHeight="31.0" prefWidth="497.0" promptText="https://panoramafirm.pl/..." />
             <Button fx:id="getDataByLinkButton" layoutX="738.0" layoutY="83.0" mnemonicParsing="false" onAction="#getDataByLink" prefHeight="49.0" prefWidth="202.0" text="Rozpocznij pobieranie z linku" />
          </children>
       </Pane>

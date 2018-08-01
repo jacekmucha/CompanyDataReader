@@ -1,21 +1,15 @@
 package Controller;
 
-import FileHelper.CSVReader;
-import FileHelper.CSVWriter;
-import FileHelper.ReadExcel2007;
-import Service.CompanyService;
-import Service.ICompanyService;
+import FileHelper.*;
+import Service.*;
 import Model.Company;
 import javafx.fxml.FXML;
 import javafx.stage.FileChooser;
-import org.apache.commons.csv.CSVFormat;
-import org.apache.commons.csv.CSVParser;
-import org.apache.commons.csv.CSVRecord;
+import org.apache.commons.csv.*;
 import java.io.File;
 import java.io.IOException;
 import java.io.Reader;
-import java.nio.file.Files;
-import java.nio.file.Paths;
+import java.nio.file.*;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -74,24 +68,34 @@ public class Controller {
     @FXML
     public void downloadCompanyData() throws IOException {
 
+        try {
+            links = readCSV(openFilePath);
 
-        links = readCSV(openFilePath);
+            for (String link : links) {
+                companyService.downloadCompanyCard(link);
 
-        for (String link : links){
+                String currentName = companyService.getName(link);
+                String currentAddress = companyService.getAddress(link);
+                String currentWebsite = companyService.getWebsite(tempFilePath);
+                String currentContactPerson = "noData";
+                String currentEmail = companyService.getEmail(link);
+                String currentPhoneNunber = companyService.getPhoneNumber(link);
 
-            String currentName = companyService.getName(link);
-            String currentAddress = companyService.getAddress(link);
-            String currentWebsite = companyService.getWebsite(tempFilePath);
-            String currentContactPerson = "noData";
-            String currentEmail = companyService.getEmail(link);
-            String currentPhoneNunber = companyService.getPhoneNumber(link);
+                Company currentCompany = new Company(currentName, currentAddress, currentWebsite,
+                        currentContactPerson, currentEmail, currentPhoneNunber);
 
-            Company currentCompany = new Company(currentName, currentAddress, currentWebsite,
-                    currentContactPerson, currentEmail, currentPhoneNunber);
+                savedCompanies.add(currentCompany);
+                //add to tableView
+            }
 
-            savedCompanies.add(currentCompany);
             System.out.println(savedCompanies);
+            System.out.println("\n\n Liczba rekordów: " + savedCompanies.size());
+
+
+        } catch (java.nio.file.NoSuchFileException e) {
+            System.out.println("Nie wczytano pliku CSV!");
         }
+
 
     }
 
