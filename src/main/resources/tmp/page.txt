@@ -871,7 +871,7 @@ document.write('<iframe src="https://4087304.fls.doubleclick.net/activityi;src=4
             </div>                            
         
         <script>
-            WebAnalytics['speed']['index_yp'] = '0:0.27';
+            WebAnalytics['speed']['index_yp'] = '0:0.285';
         </script>
 
         
@@ -1071,7 +1071,7 @@ environment.mapOptions = {"route":"https://mapa.pf.pl/?id=17874978_385&index=yp"
 
             <script type="text/javascript">$.extend(WebAnalytics,{"service":"company","pagetype":"profilepage","query":"","time":"","search_word":"","search_word_no_geo":"","district_code":"","geo_area":"","heading_code":385,"from_list":"","to_list":"","hpp":"","current_district_code":"","current_district_name":"","current_district_type":"PL","hits":"","count":"","virtual_host":"panoramafirm.pl","country":"pl","error":"","advert_code":"17874978_385"});</script>
         
-<img src="https://panoramafirm.pl/images/common/analityka.gif?1533161618" alt="1533161618" style="position: absolute; top: 0; left: 0;"></footer>        
+<img src="https://panoramafirm.pl/images/common/analityka.gif?1533164305" alt="1533164305" style="position: absolute; top: 0; left: 0;"></footer>        
     
     <div class="modal fade" id="alertModal" tabindex="-1" role="dialog" aria-labelledby="clipboardAlert" aria-hidden="true" data-show="false">
         <div class="modal-dialog modal-sm" role="document">
