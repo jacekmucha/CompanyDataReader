@@ -14,8 +14,5 @@ public class ConnectionSettings {
     public static String companyPhoneCSSselector = ".col-www > a:nth-child(2)";
     public static String webpageLineValidator = "nofollow";
     public static String emailLineValidator = "mailto:";
-    public static String tempFilePath = "C:/tempFile.txt";
-
-//   ./tmp/page.txt
-
+    public static String tempFilePath = "src/main/resources/tmp/page.txt";
 }

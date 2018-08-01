@@ -10,6 +10,7 @@ import javafx.scene.control.Label;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
+import javafx.scene.paint.Color;
 import javafx.stage.FileChooser;
 import org.apache.commons.csv.*;
 import java.io.File;
@@ -28,12 +29,26 @@ public class Controller {
     }
 
     @FXML
-    public TableView table = new TableView();
+    public TableView<Company> table = new TableView();
+    @FXML
+    TableColumn <Company, String> nameColumn = new TableColumn("nameColumn");
+    @FXML
+    TableColumn <Company, String> addressColumn = new TableColumn("addressColumn");
+    @FXML
+    TableColumn <Company, String> wwwColumn = new TableColumn("wwwColumn");
+    @FXML
+    TableColumn <Company, String> emailColumn = new TableColumn("emailColumn");
+    @FXML
+    TableColumn <Company, String> phoneColumn = new TableColumn("phoneColumn");
 
     @FXML
     public Label currentFileLine = new Label();
+
     @FXML
     public Label fileLines = new Label();
+
+    @FXML
+    public Label fileName = new Label();
 
 
     ICompanyService companyService = new CompanyService();
@@ -42,6 +57,7 @@ public class Controller {
     public String openFilePath = "noData";
     List<String> links = new ArrayList<>();
     List<Company> savedCompanies = new ArrayList<>();
+    List<String> companyLinks = new ArrayList<>();
 
     final ObservableList<Company> observableList = FXCollections.observableArrayList();
 
@@ -49,25 +65,22 @@ public class Controller {
     CSVWriter csvWriter = new CSVWriter();
 
 
-    public void openFile() {
+
+    public void openCSVFile() {
 
         FileChooser fileChooser = new FileChooser();
         File file = fileChooser.showOpenDialog(null);
 
         if (file != null) {
-            System.out.println("Wybrany plik: " + file.getName());
-            System.out.println(file.getAbsolutePath());
+            fileName.setText(file.getName());
+//            System.out.println("Wybrany plik: " + file.getName());
+//            System.out.println(file.getAbsolutePath());
         }
         openFilePath = file.getPath();
 
-    }
-
-
-    public List<String> readCSV(String path) {
-
         List<String> importedLinks = new ArrayList<>();
         try (
-                Reader reader = Files.newBufferedReader(Paths.get(path));
+                Reader reader = Files.newBufferedReader(Paths.get(openFilePath));
                 CSVParser csvParser = new CSVParser(reader, CSVFormat.newFormat(';'))
         ) {
             for (CSVRecord csvRecord : csvParser) {
@@ -78,26 +91,26 @@ public class Controller {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        return importedLinks;
+
+        fileLines.setText(Integer.toString(importedLinks.size()));
+        fileName.setTextFill(Color.web("#117004"));
+        companyLinks = importedLinks;
     }
 
     @FXML
     public void getDataByLink() {
-
+        //TODO past link, then get Company object
     }
+
 
     @FXML
     public void downloadCompanyData() throws IOException {
 
-        int size = links.size();
-        fileLines.setText(Integer.toString(size));
-
-        Integer counter = 0;
+        int counter = 0;
 
         try {
-            links = readCSV(openFilePath);
 
-            for (String link : links) {
+            for (String link : companyLinks) {
                 companyService.downloadCompanyCard(link);
 
                 String currentName = companyService.getName(link);
@@ -115,10 +128,9 @@ public class Controller {
 
                 counter++;
                 currentFileLine.setText(Integer.toString(counter));
-
             }
 
-            System.out.println(savedCompanies);
+            System.out.println(observableList);
             System.out.println("\n\n Liczba rekordów: " + savedCompanies.size());
 
 
@@ -135,22 +147,32 @@ public class Controller {
     }
 
     public void prepareTable(){
-        table.setEditable(true);
-
-        TableColumn nameColumn = new TableColumn("Nazwa firmy");
-        TableColumn addressColumn = new TableColumn("Adres firmy");
-        TableColumn wwwColumn = new TableColumn("WWW");
-        TableColumn emailColumn = new TableColumn("Adres Email");
-        TableColumn phoneColumn = new TableColumn("Nr. telefonu");
-
         nameColumn.setCellValueFactory(new PropertyValueFactory<Company, String>("Nazwa firmy"));
         addressColumn.setCellValueFactory(new PropertyValueFactory<Company, String>("Adres firmy"));
         wwwColumn.setCellValueFactory(new PropertyValueFactory<Company, String>("WWW"));
         emailColumn.setCellValueFactory(new PropertyValueFactory<Company, String>("Adres Email"));
         phoneColumn.setCellValueFactory(new PropertyValueFactory<Company, String>("Nr. telefonu"));
+        table.setEditable(true);
+
+//        TableColumn nameColumn = new TableColumn("Nazwa firmy");
+//        TableColumn addressColumn = new TableColumn("Adres firmy");
+//        TableColumn wwwColumn = new TableColumn("WWW");
+//        TableColumn emailColumn = new TableColumn("Adres Email");
+//        TableColumn phoneColumn = new TableColumn("Nr. telefonu");
+
+
 
         table.setItems(observableList);
         table.getColumns().addAll(nameColumn,addressColumn,wwwColumn,emailColumn,phoneColumn);
+    }
+
+    @FXML
+    private void initialize(){
+        nameColumn.setCellValueFactory(new PropertyValueFactory<Company, String>("Nazwa firmy"));
+        addressColumn.setCellValueFactory(new PropertyValueFactory<Company, String>("Adres firmy"));
+        wwwColumn.setCellValueFactory(new PropertyValueFactory<Company, String>("WWW"));
+        emailColumn.setCellValueFactory(new PropertyValueFactory<Company, String>("Adres Email"));
+        phoneColumn.setCellValueFactory(new PropertyValueFactory<Company, String>("Nr. telefonu"));
     }
 
 }

@@ -1,0 +1,1095 @@
+<!DOCTYPE html>
+<html lang="pl" dir="ltr" id="panoramafirmpl" class="no-js">
+<head>
+    
+        
+            <script type="text/javascript">dataLayer = [{"ecommerce":{"detail":{"products":[{"id":"zrxodu_ta","name":"zrxodu_ta","category":"","dimension1":"P","dimension2":"PL","dimension4":"Geodezja","dimension5":"","dimension6":"A-Geo Usługi Geodezyjne i Kartograficzne Adam Łyżwa"}]}},"event":"dlReadyDetail"},{"contentGroup1":"W"},{"contentGroup2":"P"}];</script>
+    
+    <!-- Google Tag Manager -->
+    
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+                {'gtm.start': new Date().getTime(),event:'gtm.js'}
+            );var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-P9KPPK');</script>
+    
+        <!-- End Google Tag Manager -->
+            <script src='https://www3.smartadserver.com/config.js?nwid=1719' type="text/javascript"></script>
+        <script type="text/javascript">
+            sas.setup({ domain: 'https://www3.smartadserver.com'});
+        </script>
+    
+
+    <script id='ibbTagEngine' language='javascript' async src='//bbcdn-static.bbelements.com/scripts/ibb-async/stable/tag.js'></script>
+
+        <script>
+        var WebAnalytics = {
+            "speed" : {
+                "header" : (new Date()).getTime()
+            }
+        }
+    </script>
+    <script>
+        var tagManager_trigger = "no_error";
+    </script>
+    <script type="text/javascript" src="https://www.google.com/recaptcha/api.js?hl=pl&render=explicit&onload=captchaCallback"
+            async="async" defer="defer">
+    </script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.2/leaflet.css" rel="stylesheet" />
+
+<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+    <link rel="icon" type="image/png" href="https://panoramafirm.pl/images/favicon/favicon.png" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=0" />
+<meta name="referrer" content="unsafe-url">
+    <meta name="apple-itunes-app" content="app-id=838106359"><title>A-Geo Usługi Geodezyjne i Kartograficzne Adam Łyżwa, Raszowa ✦ Geodezja ✦ Panorama Firm</title>
+<meta name="description" content="Geodezja ✦ A-Geo Usługi Geodezyjne i Kartograficzne Adam Łyżwa ➤ Raszowa, ul. Ozimska, (woj. opolskie) - ☎785 041 ... ☉www.geodezjaopolskie... ✉biuro@... - Panorama Firm " />
+<meta name="Robots" content="index, follow" />
+<meta name="keywords" content="A-Geo Usługi Geodezyjne i Kartograficzne Adam Łyżwa, Raszowa, opolskie, opolski, Geodezja, ul. Ozimska, A-Geo Usługi Geodezyjne i Kartograficzne Adam Łyżwa, Raszowa, opolskie, mapa do celów projektowych, pomiary sytuacyjne, pomiary wysokościowe, pomiary objętości, pomiary nasypów, pomiary wykopów, pomiary pionowości, pomiary powierzchni, pomiary powykonawcze, pomiary inwentaryzacyjne, tyczenia budynków, tyczenia obiektów liniowych, podział działek, dzielenie działek, podział terenu, mapy do celów projektowych, mapy wykonawcze, mapy powykonawcze, mapy inwentaryzacyjne, mapy cyfrowe, tworzenie map cyfrowych, tworzenie map geodezyjnych, geodeta cennik, tensometr, mapa do celu, działki geodezyjne, mapa cyfrowa, gps geodezyjny, podział geodezyjny działki, mapa sytuacyjno wysokościowa, mapa geodezyjna do celów projektowych, podział działki rolnej, mapka geodezyjna działki, cennik usług geodezyjnych, mapy geodezyjne z numerami, projekty domow, geoportal mapy, kartografia, kartograf, geodezyjne usługi dla firm, geodeta dla firm, geodezja dla firmy, podział działki cena, usługi geodezyjne, geodeta usługi geodezyjne, tanie usługi geodezyjne, geodeta cennik wytyczanie działki, geodezja i kartografia, dobre biuro geodezyjne, dzielenie działki rolnej, podział terenu dla rolników, podział terenu rolniczego, geoportal, podział gruntowy, dzielenie gruntu, geodezja praca, inwestycje geodezyjne, geodezja działki, pomiar przepływu, sklep geodezyjny, przyrządy geodezyjne, geodeta geodezja, podział nieruchomości rolnej, podziały nieruchomości, mapa działek, badania geotechniczne, mapa geodezja, mapa geodeta, geodezja mapa, geodeta mapa, geotechnik, specjalista geodeta, prace geodezyjne, geomapa geodezja, mapy plany, tworzenie map, geodeta mapy, doświadczona geodezja, doświadczony geodeta, projektowanie terenów, firma geodezja, mapy geodezyjne działek, ceny usług geodezyjnych, firma remontowa, firma budowlana, projektowanie ogrodów, projektowanie budynków, domy szkieletowe, projekty domów, kompleksowe biuro projektowanie " />
+<meta property="og:type" content="website"  />
+
+<link rel="canonical" href="https://panoramafirm.pl/opolskie,opolski,raszowa,ozimska,26/a_geo_uslugi_geodezyjne_i_kartograficzne_adam_lyzwa-zrxodu_ta.html"  />
+
+
+
+        <link rel="alternate" href="android-app://com.eniro.panorama/panoramafirm/ip/f/17874978_385/web"/>
+
+<link href="https://panoramafirm.pl/css/screen.css?v=2.8.1" rel="stylesheet" type="text/css" />
+
+<link href="https://panoramafirm.pl/assets/lightGallery/dist/css/lightgallery.css" rel="stylesheet" type="text/css" />
+
+    
+</head>
+<body class="controller-info-page action-index online                                ">
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P9KPPK"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+<div id="wholePage">
+    
+    <div class="container-fluid px-0 main">
+
+        <!-- Tag for Activity Group: internet, Activity Name: www.panoramafirm.pl SG, Activity ID: 1253801 -->
+<!-- Expected URL: https://panoramafirm.pl -->
+
+<!--
+Activity ID: 1253801
+Activity Name: www.panoramafirm.pl SG
+Activity Group Name: internet
+-->
+
+<!--
+Start of DoubleClick Floodlight Tag: Please do not remove
+Activity name of this tag: www.panoramafirm.pl SG
+URL of the webpage where the tag is expected to be placed: https://panoramafirm.pl
+This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+Creation Date: 03/20/2013
+-->
+<script type="text/javascript">
+var axel = Math.random() + "";
+var a = axel * 10000000000000;
+document.write('<iframe src="https://4087304.fls.doubleclick.net/activityi;src=4087304;type=inter705;cat=wwwpa441;ord=1;num=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+</script>
+<noscript>
+<iframe src="https://4087304.fls.doubleclick.net/activityi;src=4087304;type=inter705;cat=wwwpa441;ord=1;num=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript>
+
+<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+        
+
+        
+            <header>
+    <div class="header info-page topBarSmall">
+        <div class="header-bar container flex">
+            <div class="logo">
+                <a class="addax addax-cs_ip_hit_pf" href="https://panoramafirm.pl/" title="Panorama Firm">
+                    <img src="/images/common/logo/panoramafirm.svg" title="Panorama Firm" alt="Panorama Firm"/>
+                </a>
+            </div>
+            <div class="links text-xs-right">
+                <div class="menu-links hidden-sm-down">
+                    <a href="https://panoramafirm.pl/reklama.html" id="collapse-adv-top-link"
+                       class="color-secondary px-2 border-right  advertiseWithUs addax addax-cs_ip_hit_top_adv"
+                       title="Reklamuj się w Panoramie Firm">
+                        <i class="icon-right-small"></i>
+                        Reklamuj się u nas
+                    </a>
+                    <a href="https://panoramafirm.pl/dodaj-firme.html" id="collapse-add-comp-top-link"
+                       class="color-secondary px-2 border-right  addCompany  addax addax-cs_ip_hit_top_add_comp"
+                        title="Dodaj firmę do Panoramy Firm">
+                        <i class="icon-plus"></i>
+                        Dodaj firmę
+                    </a>
+                    <a class="color-secondary  px-2  collapseTopLink addax addax-cs_ip_hit_login"
+                       href="https://www.enirocentrum.pl/" title="Zaloguj się">
+                        <i class="icon-lock"></i>
+                        Zaloguj się
+                    </a>
+                </div>
+
+                <a id="menu-button" class="hidden-md-up" data-collapse="collapseContainerMenu" title="Menu">
+                    <i class="icon-menu">
+                    </i>
+                </a>
+
+
+            </div>
+        </div>
+    </div>
+    <div class="search-bar">
+    <div class="container">
+        <form id="search-bar-form" action="/szukaj" method="GET" class="">
+            <div class="search-inputs">
+                <i class="icon-search search-icon"></i>                                <button  class="btn btn-primary bg-secondary addax addax-cs_ip_hit_search labeled" data-before="Szukaj" type="submit"></button>
+                <div class="row">
+
+                    <div class="col-xs-5 px-0">
+                        <input id="suggest1" name="k" class="typeahead what pipeline px-1"
+                               placeholder="produkt, firma, usługa" type="text"
+                                                        >
+                    </div>
+                                            <div id="where-col" class="col-xs-7 px-0">
+                            <input id="suggest2"  name="l" class="pl-1 where" placeholder="wpisz miejscowość" type="text"
+                                                                >
+
+
+                        </div>
+                                    </div>
+            </div>
+
+        </form>
+    </div>
+</div></header>
+
+        
+        <div class="container content">
+            <div class="row">
+
+                
+    <section id="infoBelt" class="pt-1 container hidden-print">
+                            
+        <div class="breadcrumbs mb-1 hidden-sm-down">
+            
+    <div class="breadcrumb-items">
+                            <div class="breadcrumb-main">
+                                                                                                                                    <a href="https://panoramafirm.pl/"class="">Panorama Firm</a>                                                    <i class="icon-right-small"></i>
+                                                                                                                                                                                                                        </div>
+            <div class="breadcrumb-trade">
+                                                                                                                                                                                                                                                                                                    <a href="https://panoramafirm.pl/geodezja"class="addax addax-cs_ip_hit_breadcrump_heading"title="Pokaż firmy w branży Geodezja">Geodezja</a>                                                    <i class="icon-right-small"></i>
+                                                                                                                                                                                    </div>
+            <div class="breadcrumb-location">
+                                                                                                                                                                                                                                                                    <a href="https://panoramafirm.pl/geodezja/opolskie"class="addax addax-cs_ip_hit_breadcrump_location">opolskie</a>                                                    <i class="icon-right-small"></i>
+                                                                                                                                                                                                        <a href="https://panoramafirm.pl/geodezja/opolskie,opolski"class="addax addax-cs_ip_hit_breadcrump_location">opolski</a>                                                    <i class="icon-right-small"></i>
+                                                                                                                                                                                                        <div id="bc_1" class="itemrefWrapper" itemscope itemtype="http://data-vocabulary.org/Breadcrumb" itemprop="child"itemref="bc_2"><a href="https://panoramafirm.pl/geodezja/opolskie,opolski,raszowa"itemprop="url"> <span id="location" itemprop="title"> Raszowa</span></a></div><i class="icon-right-small"></i><div id="bc_2" class="hidden itemrefWrapper" itemscope itemtype="http://data-vocabulary.org/Breadcrumb" itemprop="child"><a href="https://panoramafirm.pl/opolskie,opolski,raszowa,ozimska,26/a_geo_uslugi_geodezyjne_i_kartograficzne_adam_lyzwa-zrxodu_ta.html" onclick="return false;" class="hidden blockedLink" itemprop="url" ><span class="hidden" itemprop="title">A-Geo Usługi Geodezyjne i Kartograficzne Adam Łyżwa</span></a></div>                                                                                        </div>
+                        </div>
+
+
+            <div class="clear"></div>
+        </div>
+        <div class="clear hidden-sm-down"></div>
+    </section>
+    <div id="col-left" class="col-md-8 col-sm-12 col-xs-12">
+    <div class="card business-card-info-page pb-3">
+        <div class="cover-photo pb-1">
+                                                                        <a title="Przejdź na witrynę A-Geo Usługi Geodezyjne i Kartograficzne Adam Łyżwa"
+               href="http://www.geodezjaopolskie.pl"
+               target="_blank"
+               rel="external nofollow"
+               class="colorBlue addax addax-cs_ip_hit_homepagelink_url_click"
+               data-ga="p-cover"
+            ><img alt="A-Geo Usługi Geodezyjne i Kartograficzne Adam Łyżwa w Panoramie Firm" class="welcomeBanner" src="//d32z7op07v8pur.cloudfront.net/images/5/0/127883750.jpg" /></a>
+            </div>
+
+    <div class="container">
+        <div class="row">
+            
+    <div class="col-xs-4 col-sm-2">
+        <div class="logo-container">
+            <div class="rounded logo lazy" title="" data-src="//d32z7op07v8pur.cloudfront.net/images/3/7/127883737.jpg" alt="A-Geo Usługi Geodezyjne i Kartograficzne Adam Łyżwa w Panoramie Firm"></div>
+        </div>
+    </div>
+            <div class="col-xs-8 col-sm-10">
+                <h1 class="company-name">A-Geo Usługi Geodezyjne i Kartograficzne Adam Łyżwa</h1>
+
+    <div class="stars">
+        <a href="#infopage-opinions">
+            
+    <div itemprop="review" itemscope itemtype="http://schema.org/Review">
+        <div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+            <meta itemprop="worstRating" content = "1"/>
+            <meta itemprop="ratingValue" content = "0">
+            <meta itemprop="ratingCount" content="0"/>
+            <meta itemprop="bestRating" content ="5">
+        </div>
+    </div>
+<div class="star-rating d-inline-block ">
+    <div class="star-rating-inactive d-inline-block">
+                    <span class ="icon-star" data-rating="1"></span>
+                    <span class ="icon-star" data-rating="2"></span>
+                    <span class ="icon-star" data-rating="3"></span>
+                    <span class ="icon-star" data-rating="4"></span>
+                    <span class ="icon-star" data-rating="5"></span>
+            </div>
+    <div class="star-rating-active" style="width: 1%;">
+                    <span class="icon-star" data-rating="1"></span>
+                    <span class="icon-star" data-rating="2"></span>
+                    <span class="icon-star" data-rating="3"></span>
+                    <span class="icon-star" data-rating="4"></span>
+                    <span class="icon-star" data-rating="5"></span>
+            </div>
+</div>
+    <div class="reviews-count  d-inline">
+        (0  opinii)
+    </div>
+        </a>
+    </div>
+
+
+    <div class="company-slogan">Bazujemy na doświadczeniu, zdobywanym przez prawie 10 lat w branży geodezyjnej.</div>
+
+        <ul class="list-unstyled category-list">
+                        <li>
+                            <a href="/" onclick="return false;">
+                    Geodezja
+                </a>
+                    </li>
+                <li>
+                            <a href="https://panoramafirm.pl/opolskie,opolski,raszowa,ozimska,26/a_geo_uslugi_geodezyjne_i_kartograficzne_adam_lyzwa-zrxodu_mlp.html" class="addax addax-cs_ip_heading_other">
+                    Biura projektowe
+                </a>
+                    </li>
+                <li>
+                            <a href="https://panoramafirm.pl/opolskie,opolski,raszowa,ozimska,26/a_geo_uslugi_geodezyjne_i_kartograficzne_adam_lyzwa-zrxodu_idu.html" class="addax addax-cs_ip_heading_other">
+                    Biura architektoniczne
+                </a>
+                    </li>
+                <li>
+                            <a href="https://panoramafirm.pl/opolskie,opolski,raszowa,ozimska,26/a_geo_uslugi_geodezyjne_i_kartograficzne_adam_lyzwa-zrxodu_zyf.html" class="addax addax-cs_ip_heading_other">
+                    Mapy i plany
+                </a>
+                    </li>
+            </ul>
+            </div>
+        </div>
+        <hr>
+
+        <div class="row section-contact">
+    <div class="col-xs-12 col-sm-8 col-address">
+                            <div class="mb-1">ul. Ozimska 26<br />46-050 Raszowa, woj. opolskie</div>
+                <div>
+                        <div>
+                <a
+                    href="mailto:biuro@a-geo.com.pl"
+                    class="mb-1 addax addax-cs_ip_email_click_submit count-hovers"
+                    hover-class="mb-1 addax addax-cs_ip_email_hover"
+                    data-ga="p-email-modal"
+                    data-modal-title="biuro@a-geo.com.pl"
+                    data-toggle="modal"
+                    data-target="#emailModal"
+                >
+                    <i class="icon-mail"></i> napisz email
+                </a>
+            </div>
+                                        <div>
+                    <a href="/mapa/szukaj?mk=A-Geo+Us%C5%82ugi+Geodezyjne+i+Kartograficzne+Adam+%C5%81y%C5%BCwa&ml=Raszowa&id=zrxodu_ta">
+                        <i class="icon-location left-icon"></i> pokaż na mapie
+                    </a>
+                </div>
+                    </div>
+                        <div>
+                    </div>
+            </div>
+    <div class="col-xs-12 col-sm-4 col-www flex-xs-first flex-sm-unordered col-contact">
+                                    <a title=""
+       href="http://www.geodezjaopolskie.pl"
+       target="_blank"
+       rel="external nofollow"
+       class="mb-1 btn btn-primary btn-block addax addax-cs_ip_hit_homepagelink_url_click"
+       data-ga="p-www"
+    >
+        <i class="icon-globe"></i>
+        strona www
+    </a>
+    <a href="tel: 785 041 970"
+   class="my-1 btn btn-primary btn-block addax addax-cs_ip_phonenumber_click   count-hovers"
+          data-toggle="modal"
+       data-target="#phoneModal"
+       data-ga="p-phone-modal"
+       data-modal-title=" 785 041 970"
+       hover-class="my-1 btn btn-primary btn-block addax addax-cs_ip_phone_hover"
+   >
+    <i class="icon-phone"></i> 785 041 970
+</a>
+
+    </div>
+</div>
+
+    </div>
+</div>
+<div class="container">
+    <div class="row manage-buttons justify-content-center">
+                <div class="mb-1 col-xs-12 col-sm-6 manage-button">
+            <button type="button" class="btn btn-hover-primary addax addax-cs_ip_bug_report"
+                    data-toggle="modal"
+                    data-target="#modal-report-error"
+                                        data-modal-title="Aktualizuj dane firmy"
+                    alt="Zgłoś błąd"
+                    title="Zgłoś błąd">
+                <i class="icon-error-report"></i> Zgłoś błąd
+            </button>
+        </div>
+
+    </div>
+</div>                        <div class="card text-xs-center social-media mt-3">
+            <div class="text-xs-center social-media">
+                <i class="icon-share card-icon border-primary color-primary"></i>
+                <div class="card-text color-primary">A-Geo Usługi Geodezyjne i Kartograficzne Adam Łyżwa w internecie</div>
+                <div class="px-1 py-1 text-xs-left">
+                                        
+                                            <h4 class="py-1">Może cię zainteresować</h4>
+                        <div class="row">
+                                                            <div class="col-xs-12 col-sm-6 col-md-4 deeplink">
+                                    <a href="http://www.geodezjaopolskie.pl/" target="_blank" class="addax addax-cs_ip_hit_deeplink"
+                                       rel="nofollow">Zakres usług</a>
+                                </div>
+                                                            <div class="col-xs-12 col-sm-6 col-md-4 deeplink">
+                                    <a href="http://www.geodezjaopolskie.pl/" target="_blank" class="addax addax-cs_ip_hit_deeplink"
+                                       rel="nofollow">Poznaj Nas</a>
+                                </div>
+                                                            <div class="col-xs-12 col-sm-6 col-md-4 deeplink">
+                                    <a href="http://www.geodezjaopolskie.pl/" target="_blank" class="addax addax-cs_ip_hit_deeplink"
+                                       rel="nofollow">Kontakt</a>
+                                </div>
+                                                    </div>
+                                    </div>
+            </div>
+        </div>
+            <div class="text-xs-center card mt-3">
+        <i class="icon-info-circled-alt card-icon border-primary color-primary"></i>
+
+        <div class="card-text color-primary">Informacje</div>
+                        <div class="px-1 py-1 text-xs-left">
+        <h4 class="">Opis działalności</h4>
+
+        <div class="description">
+            Doświadczenie A-GEO to prawie 10 lat na rynku usług geodezyjnych.potrzebujesz kompleksowej obsługi biura geodezyjno-projektowego, dobrze trafiłeś!Nasza firma od początku do końca pomaga zrealizować projekt - od pomiarów po wykończenie wnętrz. Współpracujemy tylko z doświadczonymi firmami. - Usługi Projektowe
+- Usługi Geodezyjne
+- Usługi Budowlane
+        </div>
+    </div>
+                <div class="px-1 py-1 text-xs-left about-us">
+                    <h4>O nas</h4>
+                            <div class="dashes"></div>
+                                        <div class="description">
+                    Współpracujemy z biurami projektowymi, jeśli potrzebujesz usług związanych z projektowaniem prosimy o kontakt, pomożemy wybrać specjalistów najlepiej dopasowanych do Waszych potrzeb.
+                </div>
+                                        <div class="row py-1 lightgallery">
+                                                                    <div class="col-xs-4 col-sm-4 col-md-3 col-lg-2">
+                            <div class="image lg-image lazy cursor-pointer card mb-0 rounded about-us-pic"
+                                 data-src="//d32z7op07v8pur.cloudfront.net/images/5/3/127883753.jpg"
+                                 data-thumb="//d32z7op07v8pur.cloudfront.net/images/5/3/127883753.jpg"
+                                 alt="pomiary sytuacyjne, pomiary wysokościowe, pomiary objętości, pomiary nasypów, pomiary wykopów"
+                                 title="pomiary sytuacyjne, pomiary wysokościowe, pomiary objętości, pomiary nasypów, pomiary wykopów">
+                            </div>
+                        </div>
+                                    </div>
+                    
+                    <h4 class="py-1">Nasi główni klienci</h4>
+                            <div class="dashes"></div>
+                        <div class="description">
+                Każdego klienta traktujemy w sposób indywidualny aby najlepiej dobrać zakres usług do Państwa potrzeb i oczekiwań. Zachęcamy do sprawdzenia naszych usług na naszej stronie:<br /> www.GeodezjaOpolskie.pl
+            </div>
+            </div>
+                <div class="px-1 py-1 text-xs-left" id="specializations">
+        <h4 class="header">
+            Marki i specjalizacje
+        </h4>
+
+        <div class="description">
+            Wykonujemy szerokie spektrum prac geodezyjnych począwszy od całościowej obsługi geodezyjnej dużych inwestycji budowlanych, a skończywszy na drobnych zleceniach dla osób prywatnych.
+        </div>
+
+                    <div class="row pt-1 lightgallery">
+                                                    <div class="col-xs-4 col-sm-4 col-md-3 col-lg-2">
+                        <div class="image lg-image cursor-pointer lazy card rounded"
+                             data-src="//d32z7op07v8pur.cloudfront.net/images/6/1/127883761.jpg"
+                             data-thumb="//d32z7op07v8pur.cloudfront.net/images/6/1/127883761.jpg"
+                             title="pomiary sytuacyjne, pomiary wysokościowe, pomiary objętości, pomiary nasypów, pomiary wykopów"
+                        ></div>
+                    </div>
+                                    <div class="col-xs-4 col-sm-4 col-md-3 col-lg-2">
+                        <div class="image lg-image cursor-pointer lazy card rounded"
+                             data-src="//d32z7op07v8pur.cloudfront.net/images/6/2/127883762.jpg"
+                             data-thumb="//d32z7op07v8pur.cloudfront.net/images/6/2/127883762.jpg"
+                             title="pomiary sytuacyjne, pomiary wysokościowe, pomiary objętości, pomiary nasypów, pomiary wykopów"
+                        ></div>
+                    </div>
+                                    <div class="col-xs-4 col-sm-4 col-md-3 col-lg-2">
+                        <div class="image lg-image cursor-pointer lazy card rounded"
+                             data-src="//d32z7op07v8pur.cloudfront.net/images/6/3/127883763.jpg"
+                             data-thumb="//d32z7op07v8pur.cloudfront.net/images/6/3/127883763.jpg"
+                             title="pomiary sytuacyjne, pomiary wysokościowe, pomiary objętości, pomiary nasypów, pomiary wykopów"
+                        ></div>
+                    </div>
+                            </div>
+            </div>
+                <div class="px-1 py-1 text-xs-left">
+        <h4 class="header" id="oferta">Produkty i usługi</h4>
+                    <div class="dashes"></div>
+                <div class="description">
+            W związku z dynamicznym rozwojem naszej firmy - poszerzyliśmy ofertę o kompleksowe budownictwo i remonty, projektowanie budynków oraz ogrodnictwo zapytaj o szczegóły telefoniczne.<br /><br />A-GEO jest firmą która działa na rynku usług geodezyjnych od prawie dekady. Bazujemy na wieloletnim doświadczeniu zawodowym zdobywanym w kilku znanych przedsiębiorstwach geodezyjnych, przy projektowaniu i realizacji obiektów budowlanych zarówno mieszkaniowych, drogowych, jak i przemysłowych.<br /><br />Dysponujemy nowoczesnym sprzętem oraz oprogramowaniem, pozwalającym na wykonanie map numerycznych. <br /><br />Doskonale znamy specyfikę współpracy z ODGiK-ami (np. realne terminy realizacji).<br /><br />Współpracowaliśmy z wieloma dużymi wykonawcami. Posiadamy bardzo dobrą znajomość specyfiki polskiego rynku usług dla budownictwa. <br /><br />Głównym obszarem naszej pracy jest cała Opolszczyzna, ale dla większych zleceń jesteśmy gotowi poszerzyć nasz zasięg.<br /><br />POMIARY:<br />- pomiary sytuacyjne,<br />- wysokościowe,<br />- pomiary objętości nasypów i wykopów,<br />- pomiary pionowości,<br />- pomiary powierzchni,<br />- pomiary powykonawcze (inwentaryzacyjne),<br />- pomiary i podział działek dla osób prywatnych.<br /><br />TYCZENIA:<br />- budynków,<br />- obiektów liniowych.<br /><br />MAPY:<br />- do celów projektowych,<br />- powykonawcze (inwentaryzacyjne),<br />- cyfrowe.
+        </div>
+    </div>
+                <div class="px-1 py-1 text-xs-left">
+        <h4 class="header">Certyfikaty</h4>
+                    <div class="description">
+                                Zapraszamy do zapoznania się z ofertą firmy a przede wszystkim do kontaktu telefonicznego.Zapewniamy fachowość i solidność naszych usług, konkurencyjne ceny oraz szybkie wykonywanie powierzonych nam zadań. 
+            </div>
+                            <div class="row py-1 lightgallery">
+                                                    <div class="col-xs-4 col-sm-4 col-md-3 col-lg-2">
+                                                                        <div class="image lg-image cursor-pointer card rounded lazy"
+                             data-src="//d32z7op07v8pur.cloudfront.net/images/0/7/127883807.jpg"
+                             data-thumb="//d32z7op07v8pur.cloudfront.net/images/0/7/127883807.jpg"
+                             title="pomiary sytuacyjne, pomiary wysokościowe, pomiary objętości, pomiary nasypów, pomiary wykopów">
+                        </div>
+                    </div>
+                            </div>
+            </div>
+                <div class="px-1 py-1 text-xs-left about-us">
+            <h4>Zasięg działania</h4>
+
+                            <div class="dashes"></div>
+                        <div class="description">
+                Nasza firma świadczy usługi m.in. na obszarze wymienionych miejscowości:
+                                                        Namysłów,                                                        Oleśnica,                                                        Gliwice,                                                        Strzelin,                                                        Gliwice,                                                        Rybnik,                                                        Strzelce Opolskie,                                                        Kędzierzyn-Koźle,                                                        Opole,                                                        Kluczbork                                                                        </div>
+    </div>
+            </div>
+    
+            <div id="gallery" class="text-xs-center card mt-3 container anchor">
+    <i class="icon-camera card-icon border-primary color-primary"></i>
+
+    <div class="card-text color-primary">Zdjęcia</div>
+
+    <div class="row gallery pt-1 lightgallery">
+                                            <div class="col-xs-4 col-sm-4 col-md-3 col-lg-2">
+                        <div class="image lg-image cursor-pointer rounded card lazy addax addax-cs_ip_gallery_image"
+                 data-src="//d32z7op07v8pur.cloudfront.net/images/6/6/127883766.jpg"
+                 data-thumb="//d32z7op07v8pur.cloudfront.net/images/6/6/127883766.jpg"
+                 title="pomiary sytuacyjne, pomiary wysokościowe, pomiary objętości, pomiary nasypów, pomiary wykopów"
+                 alt="pomiary sytuacyjne, pomiary wysokościowe, pomiary objętości, pomiary nasypów, pomiary wykopów w Panoramie Firm">
+            </div>
+        </div>
+            <div class="col-xs-4 col-sm-4 col-md-3 col-lg-2">
+                        <div class="image lg-image cursor-pointer rounded card lazy addax addax-cs_ip_gallery_image"
+                 data-src="//d32z7op07v8pur.cloudfront.net/images/6/7/127883767.jpg"
+                 data-thumb="//d32z7op07v8pur.cloudfront.net/images/6/7/127883767.jpg"
+                 title="pomiary sytuacyjne, pomiary wysokościowe, pomiary objętości, pomiary nasypów, pomiary wykopów"
+                 alt="pomiary sytuacyjne, pomiary wysokościowe, pomiary objętości, pomiary nasypów, pomiary wykopów w Panoramie Firm">
+            </div>
+        </div>
+            <div class="col-xs-4 col-sm-4 col-md-3 col-lg-2">
+                        <div class="image lg-image cursor-pointer rounded card lazy addax addax-cs_ip_gallery_image"
+                 data-src="//d32z7op07v8pur.cloudfront.net/images/6/8/127883768.jpg"
+                 data-thumb="//d32z7op07v8pur.cloudfront.net/images/6/8/127883768.jpg"
+                 title="pomiary sytuacyjne, pomiary wysokościowe, pomiary objętości, pomiary nasypów, pomiary wykopów"
+                 alt="pomiary sytuacyjne, pomiary wysokościowe, pomiary objętości, pomiary nasypów, pomiary wykopów w Panoramie Firm">
+            </div>
+        </div>
+            <div class="col-xs-4 col-sm-4 col-md-3 col-lg-2">
+                        <div class="image lg-image cursor-pointer rounded card lazy addax addax-cs_ip_gallery_image"
+                 data-src="//d32z7op07v8pur.cloudfront.net/images/6/9/127883769.jpg"
+                 data-thumb="//d32z7op07v8pur.cloudfront.net/images/6/9/127883769.jpg"
+                 title="pomiary sytuacyjne, pomiary wysokościowe, pomiary objętości, pomiary nasypów, pomiary wykopów"
+                 alt="pomiary sytuacyjne, pomiary wysokościowe, pomiary objętości, pomiary nasypów, pomiary wykopów w Panoramie Firm">
+            </div>
+        </div>
+        </div>
+</div>
+    
+    
+            <div class="card mt-3" id="infopage-opinions">
+    <i class="icon-comment card-icon border-primary color-primary"></i>
+    <div class="card-text color-primary text-xs-center">Oceny i opinie</div>
+
+    <div class="row px-1 pb-2">
+    <div class="col-xs-6 pr-0 rating-summary">
+            <div>Średnia ocen firmy:</div>
+            
+<div class="star-rating d-inline-block ">
+    <div class="star-rating-inactive d-inline-block">
+                    <span class ="icon-star" data-rating="1"></span>
+                    <span class ="icon-star" data-rating="2"></span>
+                    <span class ="icon-star" data-rating="3"></span>
+                    <span class ="icon-star" data-rating="4"></span>
+                    <span class ="icon-star" data-rating="5"></span>
+            </div>
+    <div class="star-rating-active" style="width: 1%;">
+                    <span class="icon-star" data-rating="1"></span>
+                    <span class="icon-star" data-rating="2"></span>
+                    <span class="icon-star" data-rating="3"></span>
+                    <span class="icon-star" data-rating="4"></span>
+                    <span class="icon-star" data-rating="5"></span>
+            </div>
+</div>
+    <div class="reviews-count  d-inline">
+        (0  opinii)
+    </div>
+    </div>
+    <div class="col-xs-6 pl-0 text-xs-right">
+        <button class="btn btn-primary btn-add-opinion">Dodaj opinię</button>
+    </div>
+    </div>    <form class="row px-1 " id="recomend" action="https://panoramafirm.pl/con/ajax/recommend" method="post">
+
+    <div class="col-xs-12 line-bottom my-1 font-weight-bold">
+        <div class="row">
+            <div class="col-xs-6">
+                Miejsce na Twoją opinię o firmie
+            </div>
+            <div class="col-xs-6 text-xs-right">
+                <a href="" class="reviews-form-hide color-primary cursor-pointer">Ukryj formularz</a>
+            </div>
+        </div>
+
+    </div>
+    <div class="hidden-xs-down col-sm-2 mt-1">
+        <i class="icon-user"></i>
+    </div>
+    <div class="col-sm-10 py-1">
+        <p class=" d-inline pr-1 py-0">Twoja ocena ogólna</p> 
+<div class="star-rating d-inline-block  star-rating-clickable">
+    <div class="star-rating-inactive d-inline-block">
+                    <span class ="icon-star" data-rating="1"></span>
+                    <span class ="icon-star" data-rating="2"></span>
+                    <span class ="icon-star" data-rating="3"></span>
+                    <span class ="icon-star" data-rating="4"></span>
+                    <span class ="icon-star" data-rating="5"></span>
+            </div>
+    <div class="star-rating-active" style="width: 1%;">
+                    <span class="icon-star" data-rating="1"></span>
+                    <span class="icon-star" data-rating="2"></span>
+                    <span class="icon-star" data-rating="3"></span>
+                    <span class="icon-star" data-rating="4"></span>
+                    <span class="icon-star" data-rating="5"></span>
+            </div>
+</div>
+        <dt id="rating-label">&#160;</dt>
+<dd id="rating-element">
+<input type="text" name="rating" id="rating" value="" class="hidden" data-limit="1"></dd>
+        
+<input type="hidden" name="idCategory" value="385" id="idCategory">
+        
+<input type="hidden" name="idCompany" value="17874978" id="idCompany">
+        
+<textarea name="comments" id="comments" rows="4" class="card" placeholder="Napisz opinie..." data-target="recommendCounter" data-limit="2000" maxlength="2000" cols="80"></textarea>
+        
+<input type="text" name="author" id="author" value="" class="card" placeholder="Podpis..." maxlength="30">
+        <div class="required-field pb-1"><input type="checkbox" class="fontello-checkbox" rel="" name="statuteAgreement" value="true" placeholder="" id="statuteAgreement" /><label for="statuteAgreement" class="icon-checkbox">Oświadczam, że zapoznałem się i akceptuję treść <a href="/inf/regulamin.html" class="text-link-underline">Regulaminu</a><span class="required-label-mark"></span></label></div>
+        <dt id="captchaReviews-label">&#160;</dt>
+<dd id="captchaReviews-element">
+<div class="g-recaptcha" id="captchaReviews" data-sitekey="6LdI10oUAAAAALwoCu5YrdW57T0-AO321QSqi3C6" data-theme="light" data-type="image"  ></div></dd>
+        <dt id="submit-label">&#160;</dt><dd id="submit-element">
+<input type="submit" name="submit" id="submit" value="Komentuj" class="btn btn-primary px-3 text-xs-right addax addax-cs_ip_review_add"></dd>
+            </div>
+</form>    
+</div>
+
+    <div class="modal fade" id="opinion-violation" tabindex="-1" role="dialog" aria-labelledby="clipboardAlert" aria-hidden="true" data-show="false">
+        <div class="modal-dialog modal-md" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <i  class="icon-close cursor-pointer" data-dismiss="modal" aria-label="Close"></i>
+                    <h4 class="modal-title pr-3">Chcę zgłosić naruszenie</h4>
+                </div>
+                <div class="modal-body text-xs-center">
+                    <div class="row px-2">
+                        <div class="col-xs-12 col-md-4">
+                            <img src="/images/common/form/zglos-blad.svg" width="125px">
+                        </div>
+                        <div class="col-xs-12 col-md-8">
+                            <form action="https://panoramafirm.pl/con/ajax/violation" method="post" id="violation">
+
+                                
+<input type="hidden" name="idCompany" value="17874978" id="idCompany">
+                                
+                                
+<input type="hidden" name="companyName" value="A-Geo Usługi Geodezyjne i Kartograficzne Adam Łyżwa" id="companyName">
+                                
+<input type="hidden" name="idCategory" value="385" id="idCategory">
+                                
+<input type="hidden" name="categoryName" value="Geodezja" id="categoryName">
+                                <dt id="reason-label"><label for="reason" class="required">Powód zgłoszenia*</label></dt>
+<dd id="reason-element">
+<textarea name="reason" id="reason" rows="4" placeHolder="" class="card" cols="80"></textarea></dd>
+                                <dt id="captchaViolation-label">&#160;</dt>
+<dd id="captchaViolation-element">
+<div class="g-recaptcha" id="captchaViolation" data-sitekey="6LdI10oUAAAAALwoCu5YrdW57T0-AO321QSqi3C6" data-theme="light" data-type="image"  ></div></dd>
+                                <dt id="submit-label">&#160;</dt><dd id="submit-element">
+<input type="submit" name="submit" id="submit" value="Wyślij" class="btn btn-primary"></dd>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer text-xs-center">
+                </div>
+            </div>
+        </div>
+    </div>
+                    <div class="text-xs-center pb-2 card mt-3">
+    <i class="card-icon icon-keywords border-primary color-primary"></i>
+    <div class="card-text keyword-title color-primary toggleButton addax addax-cs_ip_keywords" title="Pokaż słowa kluczowe firmy" data-toggle="collapse"
+         href="#collapse-keywords" aria-expanded="false" >Słowa kluczowe<i class="icon-down-open-mini keywords-icon color-primary"></i></div>
+    <div id="collapse-keywords" class="collapse ">
+        <div class="card-block px-1 py-1 text-xs-left">
+            
+                                                                mapa do celów projektowych,                                    pomiary sytuacyjne,                                    pomiary wysokościowe,                                    pomiary objętości,                                    pomiary nasypów,                                    pomiary wykopów,                                    pomiary pionowości,                                    pomiary powierzchni,                                    pomiary powykonawcze,                                    pomiary inwentaryzacyjne,                                    tyczenia budynków,                                    tyczenia obiektów liniowych,                                    podział działek,                                    dzielenie działek,                                    podział terenu,                                    mapy do celów projektowych,                                    mapy wykonawcze,                                    mapy powykonawcze,                                    mapy inwentaryzacyjne,                                    mapy cyfrowe,                                    tworzenie map cyfrowych,                                    tworzenie map geodezyjnych,                                    geodeta cennik,                                    tensometr,                                    mapa do celu,                                    działki geodezyjne,                                    mapa cyfrowa,                                    gps geodezyjny,                                    podział geodezyjny działki,                                    mapa sytuacyjno wysokościowa,                                    mapa geodezyjna do celów projektowych,                                    podział działki rolnej,                                    mapka geodezyjna działki,                                    cennik usług geodezyjnych,                                    mapy geodezyjne z numerami,                                    projekty domow,                                    geoportal mapy,                                    kartografia,                                    kartograf,                                    geodezyjne usługi dla firm,                                    geodeta dla firm,                                    geodezja dla firmy,                                    podział działki cena,                                    usługi geodezyjne,                                    geodeta usługi geodezyjne,                                    tanie usługi geodezyjne,                                    geodeta cennik wytyczanie działki,                                    geodezja i kartografia,                                    dobre biuro geodezyjne,                                    dzielenie działki rolnej,                                    podział terenu dla rolników,                                    podział terenu rolniczego,                                    geoportal,                                    podział gruntowy,                                    dzielenie gruntu,                                    geodezja praca,                                    inwestycje geodezyjne,                                    geodezja działki,                                    pomiar przepływu,                                    sklep geodezyjny,                                    przyrządy geodezyjne,                                    geodeta geodezja,                                    podział nieruchomości rolnej,                                    podziały nieruchomości,                                    mapa działek,                                    badania geotechniczne,                                    mapa geodezja,                                    mapa geodeta,                                    geodezja mapa,                                    geodeta mapa,                                    geotechnik,                                    specjalista geodeta,                                    prace geodezyjne,                                    geomapa geodezja,                                    mapy plany,                                    tworzenie map,                                    geodeta mapy,                                    doświadczona geodezja,                                    doświadczony geodeta,                                    projektowanie terenów,                                    firma geodezja,                                    mapy geodezyjne działek,                                    ceny usług geodezyjnych,                                    firma remontowa,                                    firma budowlana,                                    projektowanie ogrodów,                                    projektowanie budynków,                                    domy szkieletowe,                                    projekty domów,                                    kompleksowe biuro projektowanie                                    </div>
+    </div>
+</div>    
+    </div>
+<div id="col-right" class="col-md-4 col-sm-12 col-xs-12">
+        <div class="card px-1 py-1" id="get-directions">
+        <div id="map" class="eniro-leaflet-map mb-2"></div>
+        <h4>Wyznacz trasę dojazdu</h4>
+
+
+        <form id="show-route-form" action="//mapa.pf.pl/query" method="get">
+            <div class="row">
+                <div class="col-xs-2 flex-items-xl-center">
+                    <div class="row  text-xs-center ">
+                        <div class="col-xs-12 start-mark-wrapper">
+                            <i class="icon-miasto"></i>
+                            <div class="">
+                                start
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-10 flex-xs-middle">
+                    <input type="text" id="location-from" name="addr1" class="card"/>
+                    <i class="btn-full-localization cursor-pointer icon-gps addax addax-cs_ip_map_mylocation" data-toggle="tooltip"
+                       data-trigger="hover"
+                       data-template='<div class="tooltip"><div class="tooltip-inner localization"></div></div>'
+                       data-html="true"
+                       data-placement="bottom"
+                       title="Ustaw bieżącą lokalizację aby szukać w swojej okolicy">
+                    </i>
+                </div>
+                <div class="col-xs-2 pb-1 flex-xs-middle flex-items-xl-center">
+                    <div class="row text-xs-center">
+                        <div class="col-xs-12 flex-xs-middle">
+                            <i class="icon-location"></i>
+
+                            <div class="">
+                                stop
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="pb-1 col-xs-10 flex-xs-middle ">
+                    ul. Ozimska 26<br />46-050 Raszowa, woj. opolskie
+                </div>
+
+                <div class="col-xs-10 text-xs-right push-xs-2">
+                    <button class="btn-show-route col-xs-12 btn btn-hover-primary addax addax-cs_ip_showonmap_route">
+                        <i class="icon-right-small"></i>Wyznacz
+                    </button>
+                </div>
+            </div>
+            <input type="hidden" name="aaddr2" value=" Ozimska 26 46-050 Raszowa opolskie" />
+            <input type="hidden" name="what" value="route" />
+            <input type="hidden" name="$accuarcy" value="true" />
+
+        </form>
+    </div>
+
+    
+    
+
+    
+        <div class="col-contact hidden-sm-down ">
+                                            <a title=""
+       href="http://www.geodezjaopolskie.pl"
+       target="_blank"
+       rel="external nofollow"
+       class="mb-1 btn btn-primary btn-block addax addax-cs_ip_hit_homepagelink_url_click"
+       data-ga="p-www"
+    >
+        <i class="icon-globe"></i>
+        strona www
+    </a>
+    <a href="tel: 785 041 970"
+   class="my-1 btn btn-primary btn-block addax addax-cs_ip_phonenumber_click   count-hovers"
+          data-toggle="modal"
+       data-target="#phoneModal"
+       data-ga="p-phone-modal"
+       data-modal-title=" 785 041 970"
+       hover-class="my-1 btn btn-primary btn-block addax addax-cs_ip_phone_hover"
+   >
+    <i class="icon-phone"></i> 785 041 970
+</a>
+
+        </div>
+
+
+</div>
+
+<div class="col-xs-12 col-md-8">
+    </div>
+<div class="modal fade text-xs-center" id="c2c-modal" data-show="false" tabindex="-1" role="dialog" aria-labelledby="Zamów rozmowę" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content init-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Podaj swój numer telefonu, a <span class="c2c-modal-offername">A-Geo Usługi Geodezyjne i Kartograficzne Adam Łyżwa</span> oddzwoni do Ciebie.</p>
+                <form action="#" novalidate>
+                    <input type="tel" name="phone" class="form-control margin-auto" placeholder="np.: 512345678" required minlength="9" maxlength="12">
+                    <div class="invalid-msg text-danger">
+                        Podaj poprawny numer telefonu.
+                    </div>
+                    <input type="hidden" name="idcompany" value="17874978">
+                    <input type="hidden" name="idcategory" value="385">
+                    <button type="submit" class="btn btn-success mt-1 addax addax-cs_ip_c2c_number_send">Zamów rozmowę</button>
+                </form>
+            </div>
+            <div class="modal-footer text-xs-center">
+                <p>Twój numer telefonu jest bezpieczny. Nie wykorzystamy go w innym celu.</p>
+            </div>
+        </div>
+        <div class="modal-content success-content p-3">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <h2 class="modal-title">Dziękujemy</h2>
+                <p><span class="c2c-modal-offername">A-Geo Usługi Geodezyjne i Kartograficzne Adam Łyżwa</span> wkrótce do Ciebie oddzwoni.</p>
+            </div>
+        </div>
+    </div>
+</div>        
+    <div class="modal fade" id="emailModal" tabindex="-1" role="dialog" aria-labelledby="Adres e-mail" aria-hidden="true" data-show="false">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title icon-mail" id="emailModalLabel">New message</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body pt-0 pb-3">
+                <h4 class="clipboard-message pt-2 hidden-xl-down"></h4>
+                <a href="#"
+                   data-ga="p-email"
+                   class="btn btn-block btn-primary mx-auto action-btn addax addax-cs_ip_mod_send_email"
+                >wyślij wiadomość
+                </a>
+                <a href="#"
+                   data-ga="p-email-cp"
+                   class="btn btn-block btn-primary mx-auto copy-btn addax addax-cs_ip_mod_email_copy"
+                   data-for-copy="">skopiuj email
+                </a>
+            </div>
+        </div>
+    </div>
+</div>    <div id="modal-report-error" class="modal" tabindex="-1"  aria-hidden="true" data-show="false" data-backdrop="static" data-keyboard="true"
+     role="dialog" aria-labelledby="Aktualizuj dane firmy">
+    <div class="modal-dialog modal-form">
+        <div class="modal-content">
+            <div class="modal-header">
+                <i  class="icon-close cursor-pointer" data-dismiss="modal" aria-label="Close"></i>
+                <h4 class="modal-title pr-3">Aktualizuj dane firmy</h4>
+            </div>
+            <div class="modal-body row">
+                <div class="col-xs-12 col-sm-4 hidden-xs-down">
+                    <img src="https://panoramafirm.pl/images/common/form/zglos-blad.svg">
+                </div>
+                <div class="col-xs-12 col-sm-8">
+                    <form id="reportErrorForm" action="https://panoramafirm.pl/con/ajax/report" method="post">
+                        <div class="hidden-row">
+                            <dt id="idCategory-label">&#160;</dt>
+<dd id="idCategory-element">
+<input type="hidden" name="idCategory" value="385" id="idCategory"></dd>
+                            <dt id="idCompany-label">&#160;</dt>
+<dd id="idCompany-element">
+<input type="hidden" name="idCompany" value="17874978" id="idCompany"></dd>
+                        </div>
+                        <dt id="content-label"><label for="content" class="required">Które dane są nieaktualne</label></dt>
+<dd id="content-element">
+<textarea name="content" id="content" class="card" rel="Które dane są nieaktualne*" rows="24" cols="80"></textarea></dd>
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <dt id="signature-label"><label for="signature" class="required">Podpis*</label></dt>
+<dd id="signature-element">
+<input type="text" name="signature" id="signature" value="" class="card" rel="Podpis..."></dd>
+                            </div>
+                            <div class="col-xs-12">
+                                <dt id="captchaReport-label">&#160;</dt>
+<dd id="captchaReport-element">
+<div class="g-recaptcha" id="captchaReport" data-sitekey="6LdI10oUAAAAALwoCu5YrdW57T0-AO321QSqi3C6" data-theme="light" data-type="image"  ></div></dd>
+                            </div>
+                            <div class="col-xs-12 text-xs-right">
+                                <dt id="submit-label">&#160;</dt><dd id="submit-element">
+<input type="submit" name="submit" id="submit" value="Dodaj zgłoszenie" class="btn btn-primary confirm-btn addax addax-cs_ip_bug_report_send"></dd>
+                            </div>
+
+                        </div>
+                    </form>
+                </div>
+                <div class="col-xs-12 loader-img-wrapper hidden-xs-up text-xs-center"><img id="loader" src="https://panoramafirm.pl//images/common/loader.gif"></div>
+            </div>
+
+            <div class="modal-footer mb-2 py-0"></div>
+        </div>
+    </div>
+</div>
+            <div class="modal fade" id="phoneModal" tabindex="-1" role="dialog" aria-labelledby="Numer telefonu" aria-hidden="true" data-show="false">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title icon-phone" id="phoneModalLabel">New message</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body pt-0 pb-3">
+                <h4 class="clipboard-message pt-2 hidden-xl-down"></h4>
+                <a href="#" data-ga="p-phone" class="btn btn-block btn-primary mx-auto action-btn addax addax-cs_ip_mod_phonecall">zadzwoń</a>
+                <a href="#" data-ga="p-phone-cp" class="btn btn-block btn-primary mx-auto copy-btn addax addax-cs_ip_mod_phone_copy" data-for-copy="">skopiuj numer</a>
+                            </div>
+        </div>
+    </div>
+</div>    
+                
+            </div>
+
+            </div>                            
+        
+        <script>
+            WebAnalytics['speed']['index_yp'] = '0:0.27';
+        </script>
+
+        
+                    </div>
+
+    
+
+            <div id="rodoLayer" class="modal fade mx-1 my-1" data-show="true">
+    <div class="modal-dialog modal-content modal-rodo-content px-1" role="document">
+        <div class="modal-header px-0">
+            <i class="icon-close cursor-pointer" data-dismiss="modal" aria-label="Close"></i>
+            <h2 class="modal-title pr-3">Użytkowniku Panoramy Firm,</h2>
+        </div>
+        <div class="modal-body text-xl-left col-xs-12 px-0">
+            <div class="row">
+                    <div class="col-sm-9 col-xs-12">
+                        <div class="modal-rodo-greybox ">
+                            <p>w związku z Rozporządzeniem Parlamentu Europejskiego i Rady UE 2016/679 z 27 kwietnia 2016 roku w sprawie ochrony osób fizycznych, w związku z przetwarzaniem danych osobowych oraz w sprawie swobodnego przepływu danych - tzw. RODO - przekazujemy Ci podstawowe informacje o przetwarzaniu Twoich danych:</p>
+
+                            <strong>Administrator danych oraz informacje kontaktowe</strong>
+                            <p>Administratorem danych jest Eniro Polska Sp. z o.o. z siedzibą przy ul. Postępu 14A, 02-676 Warszawa, e-mail: eniro@eniro.pl. <span class="administrative-clause-more">Inspektor Ochrony Danych: Michał Sztąberek – e-mail: iod@eniro.com. Podane przez Kontrahenta dane osobowe w czasie nawiązywania umowy o współpracę będą przetwarzane w celu zawarcia i realizacji tej umowy lub gdy jest to niezbędne do podjęcia działań na żądanie osoby, której dane dotyczą, przed zawarciem umowy (na podstawie art. 6 ust. 1 lit. b Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 roku w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO), jak też w celu wykonania obowiązujących przepisów prawa - zwłaszcza z zakresu podatków, rachunkowości, czy archiwizacji danych - na podstawie art. 6 ust. 1 lit. c RODO oraz zabezpieczenia ew. roszczeń – na podstawie art. 6 ust. 1 lit. f RODO. Dane te będą przetwarzane przez okres trwania umowy, a po jej zakończeniu do czasu wygaśnięcia ew. roszczeń deliktowych (10 lat), natomiast w zakresie wymaganym przez przepisy prawa – 5 lat liczone od zakończenia roku obrachunkowego. Dane osobowe mogą być ujawnione pracownikom lub współpracownikom Eniro, jak też podmiotom udzielającym wsparcia Eniro na zasadzie zleconych usług i zgodnie z zawartymi umowami powierzenia. Kontrahent posiada prawo dostępu do treści swoich danych i ich sprostowania, usunięcia, ograniczenia przetwarzania, prawo do przenoszenia danych lub do wniesienia sprzeciwu wobec ich przetwarzania, prawo do cofnięcia zgody w dowolnym momencie bez wpływu na zgodność z prawem przetwarzania. Kontrahent ma też prawo wniesienia skargi do organu nadzorczego, gdy uzna, iż przetwarzanie jego danych osobowych narusza przepisy RODO. Podanie danych osobowych jest warunkiem zawarcia umowy.</span><a href="#" class="administrative-clause-show-more">[więcej]</a></p>
+
+                            <strong>Cele przetwarzania danych oraz podstawa prawna</strong>
+                            <p>Dane osobowe będą przetwarzane w celach:</p>
+                            <ul>
+                                <li>Dodania ich do bazy danych Panoramafirm.pl celem publikacji w wyszukiwarce – art. 6 ust. 1 lit. f RODO*</li>
+                                <li>Udostępniania danych o firmie partnerom biznesowym administratora – art. 6 ust. 1 lit. f RODO</li>
+                            </ul>
+
+                            <strong>Kategorie danych osobowych</strong>
+                            <p>Wśród danych osobowych znajdują się: nazwa przedsiębiorcy obejmująca firmę (nazwę) oraz imię i nazwisko właściciela, adres siedziby, adres oddziałów, nr NIP, nr REGON, adres e-mail, nr telefonu, nr nadany w systemie informatycznym.</p>
+                            <p>Ponadto w bazie mogą pojawić się dane osoby kontaktowej w postaci imienia i nazwiska, stanowiska służbowego, służbowego nr telefonu i służbowego adresu e-mail</p>
+
+                            <strong>Okres przez który dane będą przetwarzane</strong>
+                            <ul>
+                                <li>Dane przetwarzane w bazie Panoramafirm.pl – do czasu zgłoszenia żądania usunięcia danych lub sprzeciwu</li>
+                                <li>Dane udostępniane partnerom biznesowym administratora – do czasu zgłoszenia żądania usunięcia danych lub sprzeciwu</li>
+                            </ul>
+
+                            <strong>Odbiorcy danych</strong>
+                            <p>Dane publikowane na stronie Panoramafirm.pl są powszechnie dostępne. Dane mogą być udostępniane partnerom biznesowym, którzy wykupują licencje na korzystanie z baz danych Eniro Polska Sp. z o.o. Ponadto dane osobowe mogą być ujawnione pracownikom lub współpracownikom Spółki, jak też podmiotom udzielającym wsparcia Spółce na zasadzie zleconych usług i zgodnie z zawartymi umowami powierzenia</p>
+
+                            <strong>Źródło pochodzenia danych</strong>
+
+                            <p>Wśród źródeł wskazać należy: CEIDG, REGON, podmioty zewnętrzne, firmowe strony www, portale i serwisy internetowe</p>
+
+                            <strong>Prawa osoby, której dane dotyczą</strong>
+                            <p>Przysługuje Pani/Panu prawo dostępu do Pani/Pana danych oraz prawo żądania ich sprostowania, usunięcia, ograniczenia przetwarzania. W zakresie, w jakim podstawą przetwarzania Pani/Pana danych osobowych jest przesłanka prawnie uzasadnionego interesu administratora, przysługuje Pani/Panu prawo wniesienia sprzeciwu wobec przetwarzania Pani/Pana danych osobowych.<br/>
+                                W zakresie, w jakim podstawą przetwarzania Pani/Pana danych osobowych jest zgoda, ma Pani/Pan prawo wycofania zgody. Wycofanie zgody nie ma wpływu na zgodność z prawem przetwarzania, którego dokonano na podstawie zgody przed jej wycofaniem.<br/>
+                                W zakresie, w jakim Pani/Pana dane są przetwarzane w celu zawarcia i wykonywania umowy lub przetwarzane na podstawie zgody – przysługuje Pani/Panu także prawo do przenoszenia danych osobowych, tj. do otrzymania od administratora Pani/Pana danych osobowych, w ustrukturyzowanym, powszechnie używanym formacie nadającym się do odczytu maszynowego. Może Pani/Pan przesłać te dane innemu administratorowi danych.<br/>
+                                Przysługuje Pani/Panu również prawo wniesienia skargi do organu nadzorczego zajmującego się ochroną danych osobowych.</p>
+
+                            <p>*Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-3 text-xl-center">
+                                                <img class="hidden-md-down"  src="https://panoramafirm.pl//images/rodo.png" alt=""/>
+                                                <div class="modal-footer text-xl-center">
+                            <button type="button" class="btn btn-link color-gray" id='rodoLaterBtn' data-dismiss="modal">Nie teraz</button>
+                            <button type="button" class="btn btn-primary" id='rodoAcceptBtn' data-dismiss="modal">Zgadzam się</button>
+                        </div>
+                    </div>
+
+            </div>
+
+    </div>
+</div>
+</div>
+    
+            
+            <footer class="hidden-print">
+<div id="contactWrapper" >
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <a href="http://www.eniro.pl/nasza-oferta.html" class="btn btn-primary btn-footer addax addax-cs_ip_footer_offerbutton" title="Reklama w Panoramie Firm">Reklama w Panoramie Firm</a>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <ul class="socialLinks">
+                        <li><a href="https://www.facebook.com/PanoramaFirmPL" class="addax addax-cs_ip_footer_facebook" target="_blank" title="Facebook"><i class="icon-facebook-foot"></i></a></li>
+                        <li><a href="https://twitter.com/Panorama_Firm"  class="addax addax-cs_ip_footer_twitter" target="_blank" title="Twitter"><i class="icon-twitter-foot"></i></a></li>
+                        <li><a href="https://instagram.com/panorama_firm/" class="addax addax-cs_ip_footer_instagram" target="_blank" title="Instagram"><i class="icon-instagram-foot"></i></a></li>
+                        <li><a href="https://www.youtube.com/user/panoramafirm" class="addax addax-cs_ip_footer_YouTube" target="_blank" title="Youtube"><i class="icon-youtube-foot"></i></a></li>
+                        <li><a href="https://www.linkedin.com/company/2052430/" class="addax addax-cs_ip_footer_linkedin" target="_blank" title="LinkedIn"><i class="icon-linkedin-foot"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="footerLinksWrapper">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-3 ">
+                    <a href="http://eniro.pl" title="eniro" class="addax addax-cs_ip_footer_eniro"><img src="https://panoramafirm.pl/images/common/logo/eniro.svg" width="120" height="42" alt="Eniro" title="Eniro Polska"/></a>
+                </div>
+                <div class="col-sm-3 mobileHidden640">
+                    <h4>Oferta</h4>
+                    <ul class="footerLinks">
+                        <li><a class="addax addax-cs_ip_footer_advert" href="http://www.eniro.pl/pakiety-cyfrowe.html" title="Reklama w Panoramie Firm">Reklama w Panoramie Firm</a></li>
+                        <li><a class="addax addax-cs_ip_footer_www" href="http://www.eniroweb.pl/stronywww.html" title="Strony WWW">Strony WWW</a></li>
+                        <li><a class="addax addax-cs_ip_footer_display" href="http://www.eniro.pl/reklama-graficzna.html" title="Reklama graficzna">Reklama graficzna</a></li>
+                        <li><a class="addax addax-cs_ip_footer_video" href="http://www.eniroweb.pl/filmywideo.html" title="Reklama wideo">Reklama wideo</a></li>
+                        <li><a class="addax addax-cs_ip_footer_database" href="http://www.eniro.pl/baza-danych.html" title="Bazy danych i emeiling">Bazy danych i emailing</a><li>
+                        <li><a class="addax addax-cs_ip_footer_remarketing" href="http://www.eniro.pl/remarketing.html" title="Remarketing">Remarketing</a></li>
+                        <li><a class="addax addax-cs_ip_footer_audit" href="http://audytstrony.pf.pl" title="Audyt SEO">Audyt SEO</a></li>
+
+                    </ul>
+                </div>
+                <div class="col-sm-3 mobileHidden640">
+                    <h4>Produkty</h4>
+                    <ul class="footerLinks">
+                        <li><a class="addax addax-cs_ip_footer_map" href="//mapa.pf.pl/" title="Mapy">Mapy</a></li>
+                                                    <li><a href="http://hotele.pf.pl" class="addax addax-cs_ip_footer_hotels"  title="Panorama Hoteli">Panorama Hoteli</a></li>
+                                                <li><a class="addax addax-cs_ip_footer_budownictwo" href="http://budownictwo.pl"  title="Budownictwo.pl">Budownictwo.pl</a></li>
+                        <li><a class="" href="http://wzorydokumentow.info"  title="Darmowe wzory dokumentów">Darmowe wzory dokumentów</a></li>
+                        <li><a class="addax addax-cs_ip_footer_numo" href="https://numo.pl" title="numo.pl">Sprawdź kto dzwonił</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-3 mobileHidden640">
+                    <h4>O nas</h4>
+                    <ul class="footerLinks">
+                        <li><a class="addax addax-cs_ip_footer_enirogroup" href="http://www.eniro.pl/grupa-eniro.html" title="Grupa Eniro">Grupa Eniro</a></li>
+                        <li><a class="addax addax-cs_ip_footer_eniroPoland" href="http://www.eniro.pl/eniro-w-polsce.html" title="Eniro w Polsce">Eniro w Polsce</a></li>
+                        <li><a class="addax addax-cs_ip_footer_work" href="http://praca.eniro.pl/" title="Kariera">Kariera</a></li>
+                        <li><a class="addax addax-cs_ip_footer_media" href="http://www.eniro.pl/dla-medioacutew" title="Dla mediów">Dla mediów</a></li>
+                        <li><a class="addax addax-cs_ip_footer_contact" href="https://panoramafirm.pl/kontakt.html" title="Kontakt">Kontakt</a></li>
+                        <li><a class="addax addax-cs_ip_footer_help" href="https://panoramafirm.pl/inf/pomoc.html" title="Pomoc">Pomoc</a></li>
+                        <li><a class="addax addax-cs_ip_footer_regulations" href="https://panoramafirm.pl/inf/regulamin.html" title="Regulamin">Regulamin</a></li>
+                        <li><a class="addax addax-cs_ip_footer_cookies" href="https://panoramafirm.pl/inf/cookies.html" title="Polityka cookies">Polityka cookies</a></li>
+                        <li><a class="addax addax-cs_ip_footer_blog" href="https://panoramafirm.pl/blog/" title="Blog">Blog</a></li>
+                        <li><a class="addax addax-cs_ip_" href="https://panoramafirm.pl/inf/obowiazek-informacyjny.html" title="Obowiązek informacyjny">Obowiązek informacyjny</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <div id="infoContainer" class="hidden-print ols container">
+        <div class="row">
+            <div class="cookiesNO-JS olh col-xs-12">Korzystając z naszych usług zgadzasz się na użycie plików cookie. <a href="https://panoramafirm.pl/inf/cookies.html">Więcej informacji</a>.</div>
+                                        
+            <div id="browserInfo" class="infoPanel hidden-print">
+                <span id="browserInfoCloser" class="closer darkButton">Zamknij</span>
+                <p>Panorama Firm działa poprawnie z włączoną obsługą JavaScriptu. Jeżeli korzystasz z przeglądarki Internet Explorer, zalecamy wyłączenie trybu zgodności.</p>
+            </div>
+        
+                                        <div id="cookies-info" class="col-xs-12">
+    <div class="container infoPanel hidden-print ols">
+        <div class="row">
+            <div class="col-xs-12 px-0" id="cookies-info" >
+                <button id="cookiesInfoCloser" type="button" class="btn btn-secondary btn-sm closer">Zamknij</button>
+                <p><strong>Ważne: zasady dotyczące cookies.</strong><br>
+                    W ramach naszej witryny stosujemy pliki cookies w celu świadczenia Państwu usług na najwyższym poziomie,
+                    m.in. w celach reklamowych i statystycznych oraz w celu dostosowania naszych serwisów do indywidualnych potrzeb
+                    użytkowników. Mogą też stosować je współpracujący z nami reklamodawcy, firmy badawcze. Korzystanie z witryny bez
+                    zmiany ustawień dotyczących cookies oznacza, że będą one zamieszczane w Państwa urządzeniu końcowym.
+                    Możecie Państwo dokonać w każdym czasie <a href="https://panoramafirm.pl/inf/cookies-instrukcja.html" class="addax addax-cs_ip_cookies_setting">zmiany ustawień</a> dotyczących cookies.
+                    <br>
+                    Więcej  szczegółów w naszej „<a href="https://panoramafirm.pl/inf/cookies.html" class="addax addax-cs_ip_cookies_regulation">Polityce Cookies</a>”.</p>
+            </div>
+        </div>
+    </div>
+</div>                    </div>
+    </div>
+
+<script>
+    var controllerName = 'info-page'
+    var controllerAction = 'index';
+    var eniroMobile = '';
+</script>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.2/leaflet.js"></script>
+    <script src="//leaflet.eniro.com/dist/eniro-leaflet-0.5.3.min.js"></script>
+
+    <script src="//connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v2.5"></script>
+
+            <script language="javascript" type="text/javascript" src="https://panoramafirm.pl/js/dist/common.min.js?v=2.8.1"></script>
+                <script language="javascript" type="text/javascript" src="https://panoramafirm.pl/js/dist/info-page.min.js?v=2.8.1"></script>
+                
+<script type="text/javascript">
+                    function initializeDynamicJS(){
+                        environment.isMobile = false;
+environment.isIpad = false;
+environment.baseUrl = "https://panoramafirm.pl/";
+environment.imageBaseUrl = "https://panoramafirm.pl/";
+environment.ajaxUrl = "https://panoramafirm.pl/con/ajax/";
+environment.auctionAllegroUrl = "http://allegro.pl/";
+environment.isPreview = false;
+environment.linkClass = {"hit_pf":"addax addax-cs_ip_hit_pf","companysearch":"addax addax-cs_ip_hit_companysearch","mapsearch":"addax addax-cs_ip_hit_mapsearch","search":"addax addax-cs_ip_hit_search","mylocation":"addax addax-cs_ip_hit_mylocation","menuAdvert":"addax addax-cs_ip_hit_top_adv","menuAdvertMoreOffers":"addax addax-cs_ip_hit_more_offers","menuAdvertSendOffer":"addax addax-cs_ip_hit_send_offer","menuAddCompany":"addax addax-cs_ip_hit_top_add_comp","menuAddCompanyNotMy":"addax addax-cs_ip_update_comp","menuAddCompanyNotMySubmit":"addax addax-cs_ip_add_comp","menuAddCompanyMy":"addax addax-cs_ip_update_myComp","menuAddCompanyMySubmit":"addax addax-cs_ip_add_myComp","menuLogin":"addax addax-cs_ip_hit_login","down_add_comp":"addax addax-cs_ip_hit_down_add_comp","down_update":"addax addax-cs_ip_hit_down_update","regulations":"addax addax-cs_ip_hit_regulations","advert":"addax addax-cs_ip_hit_advert","contact":"addax addax-cs_ip_hit_contact","help":"addax addax-cs_ip_hit_help","database":"addax addax-cs_ip_hit_database","ordercatalogue":"addax addax-cs_ip_hit_ordercatalogue","catalogue":"addax addax-cs_ip_hit_catalogue","partners":"addax addax-cs_ip_hit_partners","eniro":"addax addax-cs_ip_hit_eniro","breadcrump_pf":"addax addax-cs_ip_hit_breadcrump_pf","breadcrump_catalogue":"addax addax-cs_ip_hit_breadcrump_catalogue","breadcrump_heading":"addax addax-cs_ip_hit_breadcrump_heading","breadcrump_location":"addax addax-cs_ip_hit_breadcrump_location","bannerlisting_top":"addax addax-cs_ip_bannerlisting_top","click_to_call":"addax addax-cs_ip_click_to_call_click_submit","email_click":"addax addax-cs_ip_email_submit_click","homepagelink":"addax addax-cs_ip_hit_homepagelink_url_click","payment_card":"addax addax-cs_ip_payment_card","show_large_map":"addax addax-cs_ip_show_large_map_click","welcome":"addax addax-cs_ip_tab_welcome","company":"addax addax-cs_ip_tab_company","offer":"addax addax-cs_ip_tab_offer","gallery":"addax addax-cs_ip_gallery","images":"addax addax-cs_ip_gallery_images","video":"addax addax-cs_ip_gallery_video","buyonline":"addax addax-cs_ip_tab_buyonline","buyonline_search":"addax addax-cs_ip_tab_buyonline_search","buyonline_auction":"addax addax-cs_ip_tab_buyonline_auction","buyonline_moreresults":"addax addax-cs_ip_tab_buyonline_moreresults","promotion":"addax addax-cs_ip_tab_promotion","addtocontact":"addax addax-cs_ip_addtocontact","review_add":"addax addax-cs_ip_review_add","review_violation":"addax addax-cs_ip_p-violation","review_click":"addax addax-cs_ip_hit_review_click","tradeHeading":"addax addax-cs_ip_heading","tradeBottom":"addax addax-cs_ip_heading_other","share":"addax addax-cs_ip_hit_share","print":"addax addax-cs_ip_hit_print","update":"addax addax-cs_ip_hit_update","login":"addax addax-cs_ip_hit_login","socialFacebook":"addax addax-cs_ip_facebook","keywords":"addax addax-cs_ip_keywords","joboffers":"addax addax-cs_ip_joboffers","mapLocation":"addax addax-cs_ip_map_mylocation","mapShowRoute":"addax addax-cs_ip_showonmap_route","buyOnlineAuction":"addax addax-cs_ip_buyonline_auction","buyOnlineMoreResults":"addax addax-cs_ip_buyonline_moreresults","pf_2":"addax addax-cs_ip_hit_pf_2","backtoresults":"addax addax-cs_ip_hit_backtoresults","recommended":"addax addax-cs_ip_offer_recommended","nearby":"addax addax-cs_ip_offer_nearby","moredata":"addax addax-cs_ip_moredata","listingTop":"addax addax-cs_ip_bannerlisting_top","moreresults":"addax addax-cs_ip_moreresults","galleryVideoSmall":"addax addax-cs_ip_gallery_video_small","galleryImagesSmall":"addax addax-cs_ip_gallery_images_small","galleryImage":"addax addax-cs_ip_gallery_image","galleryVideo":"addax addax-cs_ip_gallery_video","gallerySwa":"addax addax-cs_ip_gallery_searchwordad","cookies":"addax addax-cs_ip_hit_cookies","cookies_setting":"addax addax-cs_ip_cookies_setting","cookies_close":"addax addax-cs_ip_cookies_close","cookies_regulation":"addax addax-cs_ip_cookies_regulation","gdpCallToAction":"addax addax-cs_ip_promote","gdpOfferRecommended":"addax addax-cs_ip_offer_recommended","gdpOfferNearby":"addax addax-cs_ip_offer_nearby","footerOfferButton":"addax addax-cs_ip_footer_offerbutton","footerCallInfoLine":"addax addax-cs_ip_footer_call_infoline","footerCallPhone":"addax addax-cs_ip_footer_call_phone","footerEniro":"addax addax-cs_ip_footer_eniro","footerDatabase":"addax addax-cs_ip_footer_database","footerCatalogue":"addax addax-cs_ip_footer_catalogue","footerMobile":"addax addax-cs_ip_footer_mobile","footerAdvert":"addax addax-cs_ip_footer_advert","footerPress":"addax addax-cs_ip_footer_press","footerPartners":"addax addax-cs_ip_footer_partnetrs","footerWork":"addax addax-cs_ip_footer_work","footerHelp":"addax addax-cs_ip_footer_help","footerContact":"addax addax-cs_ip_footer_contact","footerFacebook":"addax addax-cs_ip_footer_facebook","footerTwitter":"addax addax-cs_ip_footer_twitter","footerGooglePlay":"addax addax-cs_ip_GooglePlay","footerInstagram":"addax addax-cs_ip_footer_instagram","footerLinkedIn":"addax addax-cs_ip_footer_linkedin","footerCookies":"addax addax-cs_ip_footer_cookies","footerWww":"addax addax-cs_ip_footer_www","footerRegulations":"addax addax-cs_ip_footer_regulations","footerYoutube":"addax addax-cs_ip_footer_YouTube","footerPlanero":"addax addax-cs_ip_footer_planero","footerDisplay":"addax addax-cs_ip_footer_display","footerVideo":"addax addax-cs_ip_footer_video","footerRemarketing":"addax addax-cs_ip_footer_remarketing","footerMap":"addax addax-cs_ip_footer_map","footerAndroidNavi":"addax addax-cs_ip_footer_Android_navi","footerIosNavi":"addax addax-cs_ip_footer_iOS_navi","footerBud":"addax addax-cs_ip_footer_budownictwo","footerEniroGroup":"addax addax-cs_ip_footer_enirogroup","footerEniroPoland":"addax addax-cs_ip_footer_eniroPoland","footerMedia":"addax addax-cs_ip_footer_media","footerHotels":"addax addax-cs_ip_footer_hotels","footerBlog":"addax addax-cs_ip_footer_blog","footerNumo":"addax addax-cs_ip_footer_numo","footerSeoAudit":"addax addax-cs_ip_footer_audit","popOverSendError":"addax addax-cs_ip_reporterror","popOverSendErrorSubmit":"addax addax-cs_ip_reporterror_submit","popOverSendSurvey":"addax addax-cs_ip_reportsurvey","popOverSendSurveySubmit":"addax addax-cs_ip_reportsurvey_submit","popOverAddCompanySubmit":"addax addax-cs_ip_hit_update_submit","bugReport":"addax addax-cs_ip_bug_report","bugReportSend":"addax addax-cs_ip_bug_report_send","navigationClick":"addax addax-cs_ip_navigation_click","streetviewClick":"addax addax-cs_ip_streetview_click","navigationInstalled":"addax addax-cs_ip_navigation_installed","navigationWantToInstall":"addax addax-cs_ip_navigation_wanttoinstall","navigationClose":"addax addax-cs_ip_navigation_close","showOnMap":"addax addax-cs_ip_cs_ip_showonmap","emailClickSubmit":"addax addax-cs_ip_email_click_submit","hitCallClick":"addax addax-cs_ip_phonenumber_click","showOnMapRoute":"addax addax-cs_ip_showonmap_route","facebookPrv":"addax addax-cs_ip_facebook_prv","twitter":"addax addax-cs_ip_twitter","youtube":"addax addax-cs_ip_youtube","google":"addax addax-cs_ip_google","goldenline":"addax addax-cs_ip_goldenline","lindedin":"addax addax-cs_ip_linkedin","pinterest":"addax addax-cs_ip_pinterest","instakgram":"addax addax-cs_ip_instakram","nk":"addax addax-cs_ip_nk","hotelsearchFooter":"addax addax-cs_ip_hit_hotelfooter","hotelsearchHanger":"addax addax-cs_ip_hotelpendant","hotelbookingLink":"addax addax-cs_ip_hotel_profilelink","reservationLink":"addax addax-cs_ip_reservationlink","searchWordAddUrl":"addax addax-cs_ip_searchwordlink","deeplink":"addax addax-cs_ip_hit_deeplink","phoneNumberCall":"addax addax-cs_ip_phone_number_call","phoneNumberValid":"addax addax-cs_ip_phone_number_valid","phoneNumberInvalid":"addax addax-cs_ip_phone_number_invalid","phoneNumberUnreachable":"addax addax-cs_ip_phone_number_unreachable","phoneNumberClose":"addax addax-cs_ip_phone_number_close","hoverEmail":"addax addax-cs_ip_email_hover","hoverPhone":"addax addax-cs_ip_phone_hover","copyEmail":"addax addax-cs_ip_email_copy","copyPhone":"addax addax-cs_ip_phone_copy","ageOk":"addax addax-cs_ip_age_ok","ageCancel":"addax addax-cs_ip_age_cancel","openHours":"addax addax-cs_ip_opening_hours_click","modal-email-open":"addax addax-cs_ip_open_email","modal-phone-open":"addax addax-cs_ip_open_phonenumber","modal-email-copy":"addax addax-cs_ip_mod_email_copy","modal-email-send":"addax addax-cs_ip_mod_send_email","modal-phone-call":"addax addax-cs_ip_mod_phonecall","modal-phone-copy":"addax addax-cs_ip_mod_phone_copy","c2cLink":"addax addax-cs_ip_c2c_form_open","c2cHit":"addax addax-cs_ip_c2c_number_send"};
+environment.controllerName = "info-page";
+environment.mapOptions = {"route":"https://mapa.pf.pl/?id=17874978_385&index=yp","target":"","markers":[{"lat":50.59912,"lng":18.13008,"companyUrl":"https://panoramafirm.pl/opolskie,opolski,raszowa,ozimska,26/a_geo_uslugi_geodezyjne_i_kartograficzne_adam_lyzwa-zrxodu_ta.html","companyName":"A-Geo Usługi Geodezyjne i Kartograficzne Adam Łyżwa","companyAddress":"ul. Ozimska 26, Raszowa","companyMapUrl":"https://mapa.pf.pl/?id=17874978_385&index=yp","isOfferGdp":false,"isMarkerRecommend":true,"options":{"link":"https://mapa.pf.pl/?id=17874978_385&index=yp","iconType":"gdp"}}],"paginator":null};
+
+                    }                    
+                </script>
+
+    
+
+            <script type="text/javascript">$.extend(WebAnalytics,{"service":"company","pagetype":"profilepage","query":"","time":"","search_word":"","search_word_no_geo":"","district_code":"","geo_area":"","heading_code":385,"from_list":"","to_list":"","hpp":"","current_district_code":"","current_district_name":"","current_district_type":"PL","hits":"","count":"","virtual_host":"panoramafirm.pl","country":"pl","error":"","advert_code":"17874978_385"});</script>
+        
+<img src="https://panoramafirm.pl/images/common/analityka.gif?1533161618" alt="1533161618" style="position: absolute; top: 0; left: 0;"></footer>        
+    
+    <div class="modal fade" id="alertModal" tabindex="-1" role="dialog" aria-labelledby="clipboardAlert" aria-hidden="true" data-show="false">
+        <div class="modal-dialog modal-sm" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body text-xs-center">
+                </div>
+                <div class="modal-footer text-xs-center">
+                    <button type="button" class="btn btn-primary hidden-xs-up" data-dismiss="modal">Zamknij</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    </div>
+</body>
+</html>

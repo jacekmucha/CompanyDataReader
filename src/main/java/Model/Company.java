@@ -26,9 +26,12 @@ public class Company {
     public Company() {
     }
 
-
     public String getName() {
         return name.get();
+    }
+
+    public SimpleStringProperty nameProperty() {
+        return name;
     }
 
     public void setName(String name) {
@@ -39,12 +42,20 @@ public class Company {
         return address.get();
     }
 
+    public SimpleStringProperty addressProperty() {
+        return address;
+    }
+
     public void setAddress(String address) {
         this.address.set(address);
     }
 
     public String getWebsite() {
         return website.get();
+    }
+
+    public SimpleStringProperty websiteProperty() {
+        return website;
     }
 
     public void setWebsite(String website) {
@@ -55,12 +66,20 @@ public class Company {
         return contactPerson.get();
     }
 
+    public SimpleStringProperty contactPersonProperty() {
+        return contactPerson;
+    }
+
     public void setContactPerson(String contactPerson) {
         this.contactPerson.set(contactPerson);
     }
 
     public String getEmail() {
         return email.get();
+    }
+
+    public SimpleStringProperty emailProperty() {
+        return email;
     }
 
     public void setEmail(String email) {
@@ -71,11 +90,13 @@ public class Company {
         return phoneNumber.get();
     }
 
+    public SimpleStringProperty phoneNumberProperty() {
+        return phoneNumber;
+    }
+
     public void setPhoneNumber(String phoneNumber) {
         this.phoneNumber.set(phoneNumber);
     }
-
-
 
     @Override
     public boolean equals(Object o) {

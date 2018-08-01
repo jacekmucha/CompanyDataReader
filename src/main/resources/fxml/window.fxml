@@ -5,7 +5,6 @@
 <?import javafx.scene.control.ProgressBar?>
 <?import javafx.scene.control.TableColumn?>
 <?import javafx.scene.control.TableView?>
-<?import javafx.scene.control.TextField?>
 <?import javafx.scene.image.Image?>
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.BorderPane?>
@@ -16,30 +15,28 @@
    <top>
       <Pane prefHeight="160.0" prefWidth="1000.0" BorderPane.alignment="CENTER">
          <children>
-            <Button fx:id="sourceFile" layoutX="181.0" layoutY="23.0" mnemonicParsing="false" onAction="#openFile" prefHeight="49.0" prefWidth="182.0" text="Wczytaj plik CSV" />
-            <Label layoutX="40.0" layoutY="34.0" prefHeight="27.0" prefWidth="128.0" text="Załaduj dane:">
+            <Button fx:id="sourceFile" layoutX="208.0" layoutY="70.0" mnemonicParsing="false" onAction="#openCSVFile" prefHeight="49.0" prefWidth="182.0" text="Wczytaj plik CSV" />
+            <Label layoutX="208.0" layoutY="32.0" prefHeight="27.0" prefWidth="128.0" text="Załaduj dane:">
                <font>
                   <Font size="18.0" />
                </font>
             </Label>
-            <Label layoutX="471.0" layoutY="20.0" prefHeight="23.0" prefWidth="181.0" text="Wczytany plik:">
+            <Label layoutX="463.0" layoutY="32.0" prefHeight="23.0" prefWidth="181.0" text="Wczytany plik:">
                <font>
                   <Font name="System Bold" size="18.0" />
                </font>
             </Label>
-            <Label layoutX="470.0" layoutY="56.0" prefHeight="27.0" prefWidth="226.0" text="&lt;brak wczytanego pliku&gt;">
+            <Label fx:id="fileName" layoutX="463.0" layoutY="67.0" prefHeight="27.0" prefWidth="226.0" text="&lt;brak wczytanego pliku&gt;">
                <font>
                   <Font size="18.0" />
                </font>
             </Label>
-            <Button fx:id="getDataByFileButton" layoutX="738.0" layoutY="20.0" mnemonicParsing="false" onAction="#downloadCompanyData" prefHeight="49.0" prefWidth="202.0" text="Rozpocznij pobieranie wg pliku" />
-            <Label layoutX="40.0" layoutY="105.0" prefHeight="27.0" prefWidth="128.0" text="Wklej link:">
-               <font>
-                  <Font size="18.0" />
-               </font>
-            </Label>
-            <TextField fx:id="sourceLink" alignment="BOTTOM_LEFT" layoutX="181.0" layoutY="103.0" prefHeight="31.0" prefWidth="497.0" promptText="https://panoramafirm.pl/..." />
-            <Button fx:id="getDataByLinkButton" layoutX="738.0" layoutY="83.0" mnemonicParsing="false" onAction="#getDataByLink" prefHeight="49.0" prefWidth="202.0" text="Rozpocznij pobieranie z linku" />
+            <Button fx:id="getDataByFileButton" layoutX="725.0" layoutY="43.0" mnemonicParsing="false" onAction="#downloadCompanyData" prefHeight="80.0" prefWidth="202.0" text="Rozpocznij pobieranie wg pliku" />
+            <ImageView fitHeight="110.0" fitWidth="144.0" layoutX="28.0" layoutY="25.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../icon/pf.png" />
+               </image>
+            </ImageView>
          </children>
       </Pane>
    </top>
@@ -88,11 +85,11 @@
    <center>
       <TableView fx:id="table" prefHeight="445.0" prefWidth="1000.0" BorderPane.alignment="CENTER">
         <columns>
-          <TableColumn prefWidth="184.0" text="Nazwa firmy" />
-            <TableColumn prefWidth="184.0" text="Adres firmy" />
-            <TableColumn prefWidth="192.0" text="WWW" />
-            <TableColumn prefWidth="224.0" text="Adres Email" />
-            <TableColumn prefWidth="215.0" text="Nr. telefonu" />
+          <TableColumn fx:id="nameColumn" prefWidth="184.0" text="Nazwa firmy" />
+            <TableColumn fx:id="addressColumn" prefWidth="184.0" text="Adres firmy" />
+            <TableColumn fx:id="wwwColumn" prefWidth="192.0" text="WWW" />
+            <TableColumn fx:id="emailColumn" prefWidth="224.0" text="Adres Email" />
+            <TableColumn fx:id="phoneColumn" prefWidth="215.0" text="Nr. telefonu" />
         </columns>
       </TableView>
    </center>
