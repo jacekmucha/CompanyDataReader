@@ -8,13 +8,13 @@ public interface ICompanyService {
 
     Document prepareDocument(String link);
 
-    void downloadCompanyCard(String companyInfoCard);
+    void downloadCompanyCard(String link);
 
     String getName(String link);
 
     String getAddress(String link);
 
-    String getWebsite() throws IOException;
+    String getWebsite(String tempFilePath) throws IOException;
 
     String getEmail(String link) throws IOException;
 

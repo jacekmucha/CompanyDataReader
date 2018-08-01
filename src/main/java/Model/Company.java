@@ -28,6 +28,7 @@ public class Company {
         this.phoneNumber = new SimpleStringProperty(phonenumber);
     }
 
+
     public Company() {
     }
 
@@ -57,6 +58,6 @@ public class Company {
                 website + "\n" +
                 contactPerson + "\n" +
                 email + "\n" +
-                phoneNumber;
+                phoneNumber+ "\n\n";
     }
 }
